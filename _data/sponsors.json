@@ -1,0 +1,33 @@
+[
+  {
+    "title": "programming partner",
+    "sponsors": [
+      {
+        "name": "Moreficent",
+        "image": "moreficent.png"
+      },
+      {
+        "name": "Coding Blocks",
+        "image": "coding-blocks.png"
+      },
+      {
+        "name": "Coding Minutes",
+        "image": "coding-minutes.png"
+      }
+    ]
+  },
+
+  {
+    "title": "media partners",
+    "sponsors": [
+      {
+        "name": "DU Vibes",
+        "image": "du-vibes.jpeg"
+      },
+      {
+        "name": "DU Express",
+        "image": "du-express.png"
+      }
+    ]
+  }
+]

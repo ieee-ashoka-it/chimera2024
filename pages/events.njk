@@ -1,0 +1,22 @@
+---
+layout: base-layout.njk
+title: Events
+styles: events.css
+permalink: /events/
+pagination:
+  data: collections.event
+  size: 30
+  alias: events
+---
+
+<div class="row">
+  <div class="grid-container">
+    {% for event in events %}
+    <div class="column">
+      <a href="{{ event.url | url }}">
+        <img src="{{ event.data.image | url }}" alt="{{ event.data.title }}" />
+      </a>
+    </div>
+    {% endfor %}
+  </div>
+</div>

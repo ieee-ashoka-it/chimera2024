@@ -1,0 +1,16 @@
+{
+  "name": "chimera-2020",
+  "version": "1.0.0",
+  "description": "Chimera 2020 Website.",
+  "main": "index.js",
+  "scripts": {
+    "start": "eleventy --serve --watch",
+    "build": "eleventy",
+    "debug": "DEBUG=* eleventy"
+  },
+  "author": "DUCS",
+  "license": "MIT",
+  "dependencies": {
+    "@11ty/eleventy": "^2.0.1"
+  }
+}
