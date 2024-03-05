@@ -8,7 +8,7 @@
     "build": "eleventy",
     "debug": "DEBUG=* eleventy"
   },
-  "author": "DUCS",
+  "author": "ASHOKA",
   "license": "MIT",
   "dependencies": {
     "@11ty/eleventy": "^2.0.1"

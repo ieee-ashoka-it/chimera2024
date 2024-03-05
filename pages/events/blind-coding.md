@@ -49,7 +49,7 @@ The event consists of two rounds:
 5. Participants will be allowed to turn their screen on twice for 30 seconds, but with the penalty of 3 points each time.
 6. Decision made by the event organizers will be final and binding.
 7. Any arguments and/or nuisance caused to the organizers will not be tolerated.
-8. The result of the prelims will be declared on the same day and teams that qualify for mains will compete on Day 2 of Sankalan.
+8. The result of the prelims will be declared on the same day and teams that qualify for mains will compete on Day 2 of Chimera.
 <br>
 <br>
 

@@ -15,14 +15,14 @@ contactNumbers:
 ---
 
 Do you wanna be a software engineer at Google? Go to …. (no no no... not what you’re thinking ;p)
-Go to DUCS CodeChef Coding Competition!
+Go to ASHOKA CodeChef Coding Competition!
 
 Hola Geeks! 
-We totally understand your love for coding and problem solving. Which is why, we are super excited to present the coding round of SANKALAN 2021.
+We totally understand your love for coding and problem solving. Which is why, we are super excited to present the coding round of CHIMERA 2021.
 
-DUCS CODECHEF CODING COMPETITION!!
+ASHOKA CODECHEF CODING COMPETITION!!
 
-Doesn’t matter if you are ‘just a noob’ or a ‘ranked coder’, we have arranged to entertain you all. Participate in Sankalan’s coding round, and stand a chance to win exciting prizes, all while doing your favorite thing (CODING <3).
+Doesn’t matter if you are ‘just a noob’ or a ‘ranked coder’, we have arranged to entertain you all. Participate in Chimera’s coding round, and stand a chance to win exciting prizes, all while doing your favorite thing (CODING <3).
 
 </br>
 </br>

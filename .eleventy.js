@@ -18,6 +18,6 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy("favicon.ico");
   return {
     passthroughFileCopy: true,
-    pathPrefix: process.env.NODE_ENV == 'production' ? '/sankalan' : '/',
+    pathPrefix: process.env.NODE_ENV == 'production' ? '/chimera' : '/',
   };
 };

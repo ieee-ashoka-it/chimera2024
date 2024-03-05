@@ -6,7 +6,7 @@ permalink: /events/brain-spark/
 image: /assets/images/events/brain-spark.jpg
 links:
   - name: "Register"
-    link: "https://sankalan-portal.ducs.in/"
+    link: "https://chimera-portal.ashoka.in/"
 contactNumbers:
   - name: "Ridhi Arora"
     mobile: "8585987780"

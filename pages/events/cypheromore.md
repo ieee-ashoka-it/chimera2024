@@ -17,8 +17,8 @@ contactNumbers:
 ---
 
 To all the <b>Jagga Jasoos</b> out there!
-<b>Sankalan'22</b> is back with 
-The Cryptography event of DUCS
+<b>Chimera'22</b> is back with 
+The Cryptography event of ASHOKA
 
 Do you think you have a hidden detective inside you who can crack any password or decode
 any hidden message?</br>

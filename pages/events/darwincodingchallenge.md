@@ -6,7 +6,7 @@ permalink: /events/darwin-coding-challenge/
 image: /assets/images/events/darwin-coding-challenge.png
 links:
   - name: "Register"
-    link: "https://sankalan-portal.ducs.in/"
+    link: "https://chimera-portal.ashoka.in/"
 contactNumbers:
   - name: "Rohit Kumar"
     mobile: "9599112681"
@@ -25,7 +25,7 @@ Contestants will be provided the required documentation during the event to refe
 solving the problem.
 
 <h4>
-bool Darwin::isWinner(Sankalan team){</br>
+bool Darwin::isWinner(Chimera team){</br>
 if(team.about == "Strongest" || team.about == "Most Intelligent")</br>
 team.winnerStatus = false;</br>
 else if(team.about == "Most Adaptable")<br/>

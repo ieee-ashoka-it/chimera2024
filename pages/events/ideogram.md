@@ -21,7 +21,7 @@ contactNumbers:
 It should be fun to let your imagination express what no amount of words can.😌
 Let's combine symbols & create the logos that can convey so much more than just the obvious!
 
-Sankalan'22 presents IDEOGRAM🥳
+Chimera'22 presents IDEOGRAM🥳
 
 It's time to shape your ideas into a creative logo and let imagination do the talking.
 

@@ -1,5 +1,5 @@
-# Sankalan 2022
-Website for Sanakalan 2022, annual technical fest organised by the students of the Depratment of Computer Science, University of Delhi.
+# Chimera 2024
+Website for Sanakalan 2024, annual technical fest organised by the students of the Depratment of Computer Science, Ashoka.
 
 :computer: *Built with [Eleventy](https://www.11ty.io/) (aka 11ty).*
 
@@ -11,10 +11,10 @@ Git, Nodejs, NPM.
 ### Installation
 ``` bash
 # clone this repository
-git clone https://github.com/csdu/sankalan.git
+git clone https://github.com/csdu/chimera.git
 
 # go to working directory
-cd sankalan
+cd chimera
 
 # install dependencies
 npm install

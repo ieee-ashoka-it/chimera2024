@@ -14,7 +14,7 @@ contactNumbers:
     mobile: "8800637086"
 ---
 
-Attention! For all the gamers out there, seeking a chance to flaunt their ability to effortlessly elevate gaming to the next level, we bring to you Sankalan’s mobile gaming gala - Call of Duty Mobile (Battle Royale)!
+Attention! For all the gamers out there, seeking a chance to flaunt their ability to effortlessly elevate gaming to the next level, we bring to you Chimera’s mobile gaming gala - Call of Duty Mobile (Battle Royale)!
 
 Whether your gameplay is silent sniping or an aggressive head-on fight, we’ve got you covered! Showcase your forte in FPS gameplay and eliminate enemies through strategy and teamwork. Hunt down enemies to collect loot and maximise your K/D. Be wary of the safe zone, and defeat all others to be the last man standing!
 

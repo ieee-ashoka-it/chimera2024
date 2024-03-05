@@ -34,7 +34,7 @@ __Time Limit:__ 2hrs
 1. The event will primarily focus on the frontend skills of the participants.
 2. Participants will write their code in html, vanilla css and vanilla js. Any use of framework or libraries is not allowed.
 3. Plagiarism in any form (either ideas or code) is strictly prohibited. Your submission may be rejected if found copied from somewhere. Note: Participants may look for basic syntax of html/css/js if they want.
-4. Participants will either share the code via codepen or by sending html, css/js, image files to the mail `ducs.events.2021@gmail.com`
+4. Participants will either share the code via codepen or by sending html, css/js, image files to the mail `ashoka.events.2021@gmail.com`
 5. Participants are allowed to add content they like and download any images or illustrations from the internet they want to be used in their work in addition to the images provided
 
 ### TEAM SIZE

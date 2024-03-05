@@ -5,8 +5,8 @@ tags: ["page"]
 permalink: /terms/
 ---
 
-These terms and conditions outline the rules and regulations for the Sankalan web portal. <br />
-By accessing this website, we assume you accept these terms and conditions. Do not continue to Sankalan if you do not agree to take all of the terms and conditions stated on this page.
+These terms and conditions outline the rules and regulations for the Chimera web portal. <br />
+By accessing this website, we assume you accept these terms and conditions. Do not continue to Chimera if you do not agree to take all of the terms and conditions stated on this page.
 
 ## Privacy Policy
 
@@ -66,24 +66,24 @@ If you have any questions or suggestions about our Privacy Policy, do not hesita
 
 ### TERMS OF USE FOR WEBSITE
 
-You agree to the following terms when you use our website (*.ducs.in):
+You agree to the following terms when you use our website (*.ashoka.in):
 
 - You agree to the privacy policy above.
 - We try our best to keep your private information safe with us. But we are not responsible for any potential theft of your information, whether by our mistake or by some mistake of yours. We will try our best to support you.
 - Your name and content you create with us can be used for promotional purposes on other media.
-- We will store the following information about you when you register through our "Sankalan Dashboard" with your Google Account: displayName, email id, Google user id, Google+ information like organisation you work with, your mobile number. Temporarily, some more information is available to us, but we do not make use of that information.
+- We will store the following information about you when you register through our "Chimera Dashboard" with your Google Account: displayName, email id, Google user id, Google+ information like organisation you work with, your mobile number. Temporarily, some more information is available to us, but we do not make use of that information.
 - You must not to misuse the contact and personal details provided to you for your convenience at various pages on this website.
 - You must not exploit the website's weaknesses (if you find any) to cause harm to the website, or the organisation of this website or other users using this website.
 - You are free to go through the source code of our website which is available at:  
-  [https://github.com/csdu/sankalan](https://github.com/csdu/sankalan)  
-  [https://github.com/csdu/sankalan-portal](https://github.com/csdu/sankalan-portal)
+  [https://github.com/csdu/chimera](https://github.com/csdu/chimera)  
+  [https://github.com/csdu/chimera-portal](https://github.com/csdu/chimera-portal)
 - If you find any issues with the website, feel free to report it on Github or contact us.
 
-### TERMS OF SERVICE FOR SANKALAN 2022
+### TERMS OF SERVICE FOR CHIMERA 2024
 
-By registering for Sankalan 2022 through our website or service provided at registration desk, you agree to the following terms:
+By registering for Chimera 2024 through our website or service provided at registration desk, you agree to the following terms:
 
-- You must not misuse any technology available to you to cause damage to Sankalan (its website, its organisation and the other people participating in the event).
+- You must not misuse any technology available to you to cause damage to Chimera (its website, its organisation and the other people participating in the event).
 - You must follow the guidelines provided to you during the event.
 - You must agree to the rules and conditions provided for each event in which you participate.
 - You will respect the organisers and other participants at the event.
@@ -91,10 +91,10 @@ By registering for Sankalan 2022 through our website or service provided at regi
 - If caught violating the terms of service, you are eligible for immediate disqaulification from the event and a potential ban for future events. We may also report your violations to the organisation you work with. Strict action will be taken against strict violations.
 
 ## Non-discrimination Policy
-Sankalan prohibits discrimination, harassment, and bullying against any person for any reason—for example, because of age, ancestry, color, disability or handicap, national origin, race, religion, gender, sexual or affectional orientation, gender identity, appearance, matriculation, political affiliation, marital status, veteran status, or any other characteristic protected by law.
+Chimera prohibits discrimination, harassment, and bullying against any person for any reason—for example, because of age, ancestry, color, disability or handicap, national origin, race, religion, gender, sexual or affectional orientation, gender identity, appearance, matriculation, political affiliation, marital status, veteran status, or any other characteristic protected by law.
 
 ## Event Conduct and Safety 
-Sankalan is committed to providing a safe, productive, and welcoming environment to all participants, including staff and vendors, at Sankalan-related events. Sankalan has no tolerance for discrimination, harassment, or bullying in any form at Sankalan-related events. Participants are expected to adhere to these principles and respect the rights of others.
+Chimera is committed to providing a safe, productive, and welcoming environment to all participants, including staff and vendors, at Chimera-related events. Chimera has no tolerance for discrimination, harassment, or bullying in any form at Chimera-related events. Participants are expected to adhere to these principles and respect the rights of others.
   
 ### What To Do If You Witness or are Subjected to Unacceptable Behavior: 
 Participants should report any behavior inconsistent with these principles to onsite event staff. Event staff will be happy to help participants contact venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the event. We value your attendance.

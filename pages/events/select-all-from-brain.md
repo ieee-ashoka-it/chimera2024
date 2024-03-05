@@ -18,7 +18,7 @@ Select * from brain
 </br>
 
 Let's search your memory and see how much data you can retrieve💡 and how much is lost😵‍💫! 
-Sankalan'22 presents SELECT * FROM BRAIN
+Chimera'22 presents SELECT * FROM BRAIN
 An SQL based quiz extensively designed to query your brain.
 </br>
 

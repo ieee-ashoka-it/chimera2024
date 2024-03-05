@@ -19,7 +19,7 @@ contactNumbers:
 
 Do you have an eye for a photograph that can be looked INTO? After all, it’s said that everyone owns a camera. But it’s not enough to own it. To be a photographer, you must understand, appreciate and harness the power you hold!
 
-SANKALAN 2022 presents ALACRITY- A photography contest of DUCS, where you can not just showcase your talent, but give the world a detour of all the beautiful places your imagination takes you to, give others the taste of the moment they haven’t even lived. 
+CHIMERA 2024 presents ALACRITY- A photography contest of ASHOKA, where you can not just showcase your talent, but give the world a detour of all the beautiful places your imagination takes you to, give others the taste of the moment they haven’t even lived. 
 Just put your imagination in your clicks and let them do the talking.
 </br>
 Register yourself now! See you with your cameras. 📸
@@ -42,7 +42,7 @@ Register yourself now! See you with your cameras. 📸
 
 - Theme will be BACK2COLLEGE for this year's Alacrity.
 - Each participant must submit exactly 1 photograph related to the theme.
-- All the submissions must be made before 14:00 on 29th May 2022.No submission will be accepted after that.
+- All the submissions must be made before 14:00 on 29th May 2024.No submission will be accepted after that.
 
 #### Submission Platform:
 

@@ -1,8 +1,8 @@
 ---
 layout: event-layout.njk
-title: DUCS Coding Cup
+title: ASHOKA Coding Cup
 tags: ["event-old"]
-permalink: /events/ducs-coding-cup/
+permalink: /events/ashoka-coding-cup/
 image: /assets/images/events/coding-cup.jpg
 links:
   - name: "Register"

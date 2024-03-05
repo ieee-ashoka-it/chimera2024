@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "name": "sankalan",
+  "name": "chimera",
   "routes": [
     {
       "src": "/assets/(.*)",
@@ -18,7 +18,7 @@
       "headers": { "cache-control": "public, max-age=0, must-revalidate" }
     }
   ],
-  "alias": "sankalan",
+  "alias": "chimera",
   "builds": [
     { "use": "@now/static-build", "src": "package.json", "config": { "distDir": "_site" } }
   ]
