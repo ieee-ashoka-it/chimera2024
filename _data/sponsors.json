@@ -15,19 +15,5 @@
         "image": "coding-minutes.png"
       }
     ]
-  },
-
-  {
-    "title": "media partners",
-    "sponsors": [
-      {
-        "name": "DU Vibes",
-        "image": "du-vibes.jpeg"
-      },
-      {
-        "name": "DU Express",
-        "image": "du-express.png"
-      }
-    ]
   }
 ]
