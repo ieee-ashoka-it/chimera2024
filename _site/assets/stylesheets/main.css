@@ -50,7 +50,7 @@ img #lines {
 .dot-dot {
   position: absolute;
   display: none;
-  color: #c400c6;
+  color: #8ef4d2;
   user-select: none; /* supported by Chrome and Opera */
   -webkit-user-select: none; /* Safari */
   -moz-user-select: none; /* Firefox */
