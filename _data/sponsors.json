@@ -1,3 +1,15 @@
 [
-
-]
+    {
+      "title": "our sponsors",
+      "sponsors": [
+        {
+          "name": "Samara Capital",
+          "image": "logo_samara.png"
+        },
+        {
+          "name": "Premas Biotech",
+          "image": "logo-premas.png"
+        }]
+    }
+  ]
+  
