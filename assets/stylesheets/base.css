@@ -1,18 +1,18 @@
 @font-face {
   font-family: spaceMonoRegular;
-  src: url(../fonts/SpaceMono-Regular.ttf);
+  src: url(../fonts/OpenSauceOne-Light.ttf);
   font-weight: 400;
 }
 
 /* for title */
 @font-face {
   font-family: octopost;
-  src: url(../fonts/octopost.ttf);
+  src: url(../fonts/HelveticaNowDisplay-Bold.ttf);
 }
 
 @font-face {
   font-family: spaceMonoBold;
-  src: url(../fonts/SpaceMono-Bold.ttf);
+  src: url(../fonts/HelveticaNowDisplay-Regular.ttf);
   font-weight: 700;
 }
 

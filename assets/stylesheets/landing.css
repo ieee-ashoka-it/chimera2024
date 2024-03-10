@@ -1,12 +1,12 @@
 @font-face {
   font-family: iceland;
-  src: url(../fonts/Iceland.ttf);
+  src: url(../fonts/HelveticaNowDisplay-Bold.ttf);
 }
 
 /* for title */
 @font-face {
   font-family: octopost;
-  src: url(../fonts/octopost.ttf);
+  src: url(../fonts/HelveticaNowDisplay-Bold.ttf);
 }
 
 * {
@@ -98,7 +98,7 @@ body {
   position: relative;
 }
 .spacing {
-  margin-top: 15rem;
+  margin-top: 20rem;
 }
 
 .rotating-animation svg {
