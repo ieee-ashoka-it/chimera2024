@@ -97,6 +97,9 @@ body {
   align-items: center;
   position: relative;
 }
+.spacing {
+  margin-top: 15rem;
+}
 
 .rotating-animation svg {
   width: 33vw;
