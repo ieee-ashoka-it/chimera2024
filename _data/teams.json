@@ -129,13 +129,7 @@
         "name" : "Rhea Wali",
         "image" : "Rhea_Wali.png",
         "designation" : "Co-director"
-      },
-    
-      {
-        "name" : "Santripta Sharma",
-        "image" : "Santripta_Sharma.jpeg",
-        "designation" : "Member"
-      }    
+      } 
     ]
   }
 
