@@ -1,15 +1,12 @@
 ---
 layout: event-layout.njk
-title: Keynote talk 2 - Vishal Gondal
+title: Keynote talk - Vishal Gondal
 tags: ["event"]
 permalink: /events/talk2
-image: /assets/images/events/comingsoon.jpg
+image: /assets/images/events/keynote.png
 links:
   - name: "Register"
     link: "#"
 ---
-
-> Placeholder
-
-
 ### Coming Soon
+> More information coming soon.

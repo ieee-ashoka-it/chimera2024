@@ -3,13 +3,10 @@ layout: event-layout.njk
 title: Rocket Design
 tags: ["event"]
 permalink: /events/rocketdesign/
-image: /assets/images/events/comingsoon.jpg
+image: /assets/images/events/rocketdesign.png
 links:
   - name: "Register"
     link: "#"
 ---
-
-> Placeholder
-
-
 ### Coming Soon
+> More information coming soon.

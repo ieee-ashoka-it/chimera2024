@@ -3,7 +3,7 @@ layout: event-layout.njk
 title: Research Presentation
 tags: ["event"]
 permalink: /events/presentation/
-image: /assets/images/events/comingsoon.jpg
+image: /assets/images/events/presentation.png
 links:
   - name: "Register"
     link: "#"
@@ -14,3 +14,4 @@ links:
 
 
 ### Coming Soon
+> More information coming soon.

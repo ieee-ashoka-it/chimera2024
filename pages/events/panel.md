@@ -3,13 +3,11 @@ layout: event-layout.njk
 title: Professor Panel
 tags: ["event"]
 permalink: /events/panel/
-image: /assets/images/events/comingsoon.jpg
+image: /assets/images/events/panel.png
 links:
   - name: "Register"
     link: "#"
 ---
 
-> Placeholder
-
-
 ### Coming Soon
+> More information coming soon.

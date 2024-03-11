@@ -1,15 +1,13 @@
 ---
 layout: event-layout.njk
-title: Keynote talk 2 - Dr. Anjan Ray
+title: Keynote talk - Dr. Anjan Ray
 tags: ["event"]
 permalink: /events/talk3
-image: /assets/images/events/comingsoon.jpg
+image: /assets/images/events/keynote.png
 links:
   - name: "Register"
     link: "#"
 ---
 
-> Placeholder
-
-
 ### Coming Soon
+> More information coming soon.

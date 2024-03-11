@@ -3,13 +3,11 @@ layout: event-layout.njk
 title: Healthtech Ideathon
 tags: ["event"]
 permalink: /events/healthtech/
-image: /assets/images/events/comingsoon.jpg
+image: /assets/images/events/healthtech.png
 links:
   - name: "Register"
     link: "#"
 ---
 
-> Placeholder
-
-
 ### Coming Soon
+> More information coming soon.
