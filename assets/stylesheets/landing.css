@@ -45,6 +45,13 @@ body {
   left: auto;
 }
 
+.corner-nav-item.top-right1 a {
+  top: 1rem;
+  right: 9rem;
+  left: auto;
+}
+
+
 .corner-nav-item.bottom-left a {
   top: auto;
   bottom: 1rem;
