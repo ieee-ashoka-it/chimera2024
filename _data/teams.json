@@ -1,49 +1,107 @@
 [
   {
-    "title": "",
+    "title": "Core Team",
     "people": [
       {
         "name": "Niranjan Rajesh",
-        "image": "Niranjan_Rajesh.jpeg"
+        "image": "Niranjan_Rajesh.jpeg",
+        "designation": "Chair"
       },
       {
         "name": "Misha Singh",
-        "image": "Misha_Singh.jpeg"
+        "image": "Misha_Singh.jpeg",
+        "designation": "Vice Chair"
       },
       {
         "name": "Nishtha Das",
-        "image": "Nishtha_Das.jpeg"
+        "image": "Nishtha_Das.jpeg",
+        "designation": "Treasurer"
       } ,
       {
         "name" : "Ambar Neel",
-        "image" : "Ambar_Neel.jpeg"
-      },
+        "image" : "Ambar_Neel.jpeg",
+        "designation" : "Secretary"
+      }
+    ]
+  },
+
+  {
+    "title": "IT Team",
+    "people": [
       {
         "name" : "Bhumika Mittal",
-        "image" : "Bhumika_Mittal.jpeg"
+        "image" : "Bhumika_Mittal.jpeg",
+        "designation" : "Co-director"
       },
       {
         "name" : "Vidur Kaushik",
-        "image" : "Vidur_Kaushik.jpeg"
+        "image" : "Vidur_Kaushik.jpeg",
+        "designation" : "Co-director"
       },
       {
         "name" : "Santripta Sharma",
-        "image" : "Santripta_Sharma.jpeg"
+        "image" : "Santripta_Sharma.jpeg",
+        "designation" : "Member"
+      }    
+    ]
+  },
+  {
+    "title": "Events Team",
+    "people": [
+      {
+        "name" : "Santripta Sharma",
+        "image" : "Santripta_Sharma.jpeg",
+        "designation" : "Co-director"
       },
       {
+        "name" : "Santripta Sharma",
+        "image" : "Santripta_Sharma.jpeg",
+        "designation" : "Member"
+      }    
+    ]
+  },
+  {
+    "title": "PR Team",
+    "people": [
+
+      {
+        "name" : "Anisha Jain",
+        "image" : "Anisha_Jain.jpg", 
+        "designation" : "Co-director"
+      }   ,
+      {
+        "name" : "Agnim Agarwal",
+        "image" : "Agnim_Agarwal.jpg", 
+        "designation" : "Co-director"
+      }   ,
+      {
+        "name" : "Santripta Sharma",
+        "image" : "Santripta_Sharma.jpeg",
+        "designation" : "Member"
+      }    
+    ]
+  },
+  {
+    "title": "Growth Team",
+    "people": [
+      {
         "name" : "Allen Alex",
-        "image" : "Allen_Alex.jpeg"
+        "image" : "Allen_Alex.jpeg",
+        "designation" : "Co-director"
       },
       {
         "name" : "Rhea Wali",
-        "image" : "Rhea_Wali.png"
+        "image" : "Rhea_Wali.png",
+        "designation" : "Co-director"
       },
+    
       {
-        "name" : "Anisha Jain",
-        "image" : "Anisha_Jain.jpg"
+        "name" : "Santripta Sharma",
+        "image" : "Santripta_Sharma.jpeg",
+        "designation" : "Member"
       }    
-
     ]
   }
+
 
 ]
