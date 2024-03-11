@@ -39,8 +39,8 @@
         "designation" : "Co-director"
       },
       {
-        "name" : "Santripta Sharma",
-        "image" : "Santripta_Sharma.jpeg",
+        "name" : "Maaher Bhagwagar",
+        "image" : "maaher_bhagwagar.jpg",
         "designation" : "Member"
       }    
     ]
@@ -54,10 +54,30 @@
         "designation" : "Co-director"
       },
       {
-        "name" : "Santripta Sharma",
-        "image" : "Santripta_Sharma.jpeg",
+        "name" : "Ishaan Pershad",
+        "image" : "ishaan_pershad.jpg",
         "designation" : "Member"
-      }    
+      },
+      {
+        "name" : "Saachi Moudgal",
+        "image" : "saachi_moudgal.jpg",
+        "designation" : "Member"
+      },
+      {
+        "name" : "Shagnik Dasgupta",
+        "image" : "shagnik_dasgupta.jpg",
+        "designation" : "Member"
+      },
+      {
+        "name" : "Gayatri Subhash",
+        "image" : "gayatri_subhash.jpeg",
+        "designation" : "Member"
+      },
+      {
+        "name" : "Trsha Harish",
+        "image" : "trsha_harish.jpeg",
+        "designation" : "Member"
+      }  
     ]
   },
   {
@@ -75,10 +95,26 @@
         "designation" : "Co-director"
       }   ,
       {
-        "name" : "Santripta Sharma",
-        "image" : "Santripta_Sharma.jpeg",
+        "name" : "Kashyap J",
+        "image" : "kashyap_j.jpg",
         "designation" : "Member"
-      }    
+      },
+      {
+        "name" : "Anand Agarwal",
+        "image" : "anand_agarwal.jpeg",
+        "designation" : "Member"
+      },
+      {
+        "name" : "Kashvi Dutt",
+        "image" : "kashvi_dutt.jpeg",
+        "designation" : "Member"
+      },
+      {
+        "name" : "Hitee Bhardwaj",
+        "image" : "hitee_bhardwaj.jpeg",
+        "designation" : "Member"
+      }
+          
     ]
   },
   {
