@@ -109,7 +109,7 @@ header nav .nav-links a.active:after {
 
 header nav .nav-links a.button,
 header nav .nav-links a.button-small {
-  color: #0c093c;
+  color: rgba(12,9,60,0.7);
   padding: 0.5rem 1rem;
   background-color: cyan;
 }
@@ -207,16 +207,16 @@ main .content {
   padding-bottom: 30px;
   border: 1px solid #99a1b328;
   word-wrap: break-word;
-  background: #0c093c; /* fallback for old browsers */
+  background: rgba(12,9,60,0.7); /* fallback for old browsers */
   background: -webkit-radial-gradient(
-    #0c093c,
-    #0c093c,
-    #0c093c
+    rgba(12,9,60,0.7),
+    rgba(12,9,60,0.7),
+    rgba(12,9,60,0.7)
   ); /* Chrome 10-25, Safari 5.1-6 */
   background: radial-gradient(
-    #0c093c,
-    #0c093c,
-    #0c093c
+    rgba(12,9,60,0.7),
+    rgba(12,9,60,0.7),
+    rgba(12,9,60,0.7)
   ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
   box-shadow: 0 0px 35px rgba(0, 0, 0, 0.25), 0 0px 20px rgba(0, 0, 0, 0.22);
 }

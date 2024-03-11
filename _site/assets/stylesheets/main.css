@@ -6,16 +6,16 @@ body {
   margin: 0;
   overflow-x: hidden;
   text-align: center;
-  background: #0c093c; /* fallback for old browsers */
+  background: rgba(12,9,60,0.7); /* fallback for old browsers */
   background: -webkit-radial-gradient(
-    #0c093c,
-    #0c093c,
-    #0c093c
+    rgba(12,9,60,0.7),
+    rgba(12,9,60,0.7),
+    rgba(12,9,60,0.7)
   ); /* Chrome 10-25, Safari 5.1-6 */
   background: radial-gradient(
-    #0c093c,
-    #0c093c,
-    #0c093c
+    rgba(12,9,60,0.7),
+    rgba(12,9,60,0.7),
+    rgba(12,9,60,0.7)
   ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 }
 
@@ -50,7 +50,7 @@ img #lines {
 .dot-dot {
   position: absolute;
   display: none;
-  color: #8ef4d2;
+  color: #FFFFFF;
   user-select: none; /* supported by Chrome and Opera */
   -webkit-user-select: none; /* Safari */
   -moz-user-select: none; /* Firefox */
