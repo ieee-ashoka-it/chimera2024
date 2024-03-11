@@ -6,7 +6,7 @@ permalink: /events/webdev/
 image: /assets/images/events/webdev.png
 links:
   - name: "Register"
-    link: "#"
+    link: "https://www.townscript.com/e/chimera-2024"
 ---
 
 ### Coming Soon

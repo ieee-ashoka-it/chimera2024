@@ -6,7 +6,7 @@ permalink: /events/healthtech/
 image: /assets/images/events/healthtech.png
 links:
   - name: "Register"
-    link: "#"
+    link: "https://www.townscript.com/e/chimera-2024"
 ---
 
 ### Coming Soon

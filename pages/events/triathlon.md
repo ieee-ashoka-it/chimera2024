@@ -6,7 +6,7 @@ permalink: /events/triathlon/
 image: /assets/images/events/acadtri.png
 links:
   - name: "Register"
-    link: "#"
+    link: "https://www.townscript.com/e/chimera-2024"
 ---
 
 ### Coming Soon

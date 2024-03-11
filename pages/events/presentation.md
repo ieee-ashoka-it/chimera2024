@@ -6,7 +6,7 @@ permalink: /events/presentation/
 image: /assets/images/events/presentation.png
 links:
   - name: "Register"
-    link: "#"
+    link: "https://www.townscript.com/e/chimera-2024"
 ---
 
 > Students will have the chance to present their ongoing research projects and gain valuable feedback along with prizes.
