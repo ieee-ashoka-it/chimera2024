@@ -27,7 +27,7 @@ body {
   font-family: "iceland";
   text-transform: uppercase;
   position: absolute;
-  font-size: 1.3rem;
+  font-size: 1rem;
   line-height: 40px;
   letter-spacing: 1.5px;
   color: #f8f8f8;
@@ -47,7 +47,7 @@ body {
 
 .corner-nav-item.top-right1 a {
   top: 1rem;
-  right: 9rem;
+  right: 7rem;
   left: auto;
 }
 
