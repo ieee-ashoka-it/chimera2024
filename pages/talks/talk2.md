@@ -1,8 +1,8 @@
 ---
 layout: event-layout.njk
 title: Keynote talk - Vishal Gondal
-tags: ["event"]
-permalink: /events/talk2
+tags: ["talk"]
+permalink: /talk/talk2
 image: /assets/images/events/keynote.png
 links:
   - name: "Register"

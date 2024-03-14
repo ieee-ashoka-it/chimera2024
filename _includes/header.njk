@@ -11,7 +11,11 @@
       </a>
       <a href="{{ '/events/' | url }}" 
         class="{% if title and title.toLowerCase() == 'events' %}active{% endif %}">
-        events
+        competitions
+      </a>
+            <a href="{{ '/talks/' | url }}" 
+        class="{% if title and title.toLowerCase() == 'talks' %}active{% endif %}">
+        speakers
       </a>
                 <a href="{{ '/team/' | url }}" 
         class="{% if title and title.toLowerCase() == 'team' %}active{% endif %}">

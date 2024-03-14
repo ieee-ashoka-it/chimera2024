@@ -1,8 +1,8 @@
 ---
 layout: event-layout.njk
 title: Professor Panel
-tags: ["event"]
-permalink: /events/panel/
+tags: ["talk"]
+permalink: /talks/panel/
 image: /assets/images/events/panel.png
 links:
   - name: "Register"

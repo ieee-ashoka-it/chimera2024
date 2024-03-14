@@ -1,8 +1,8 @@
 ---
 layout: event-layout.njk
 title: Keynote talk - Sreeji Gopinath
-tags: ["event"]
-permalink: /events/talk1/
+tags: ["talk"]
+permalink: /talk/talk1/
 image: /assets/images/events/keynote.png
 links:
   - name: "Register"

@@ -1,0 +1,22 @@
+---
+layout: base-layout.njk
+title: Speakers
+styles: events.css
+permalink: /talks/
+pagination:
+  data: collections.talk
+  size: 30
+  alias: talks
+---
+
+<div class="row">
+  <div class="grid-container">
+    {% for talk in talks %}
+    <div class="column">
+      <a href="{{ talk.url | url }}">
+        <img src="{{ talk.data.image | url }}" alt="{{ talk.data.title }}" />
+      </a>
+    </div>
+    {% endfor %}
+  </div>
+</div>

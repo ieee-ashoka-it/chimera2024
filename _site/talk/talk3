@@ -10,11 +10,11 @@
     <link rel="stylesheet" href="/assets/stylesheets/main.css" />
     <link rel="stylesheet" href="/assets/stylesheets/base.css" />
      
-    <link rel="stylesheet" href="/assets/stylesheets/events.css" /> 
+    <link rel="stylesheet" href="/assets/stylesheets/event-layout.css" /> 
     
     <link type="image/png" href="/assets/images/favicon.png" rel="icon">
-    <title>Events | Chimera 2024</title>
-    <meta property="og:title" content="Events | Chimera 2024" />
+    <title>Keynote talk - Dr. Anjan Ray | Chimera 2024</title>
+    <meta property="og:title" content="Keynote talk - Dr. Anjan Ray | Chimera 2024" />
     <meta property="og:description" content="Chimera - IEEE Ashoka's STEM Fest 2024" />
     <meta property="og:image" content="/assets/images/chimera2024logo.jpg" />
   </head>
@@ -34,7 +34,7 @@
         about
       </a>
       <a href="/events/" 
-        class="active">
+        class="">
         events
       </a>
                 <a href="/team/" 
@@ -54,59 +54,42 @@
 
       <main>
         <div class="content">
-          <h1>Events</h1>
+          <h1>Keynote talk - Dr. Anjan Ray</h1>
           <div class="line-br">
             <span class="line-br-1"></span>
             <span class="line-br-2"></span>
             <span class="line-br-3"></span>
           </div>
           
-<div class="row">
-  <div class="grid-container">
+<div class="banner-image">
+  <img src="/assets/images/events/keynote.png" />
+</div>
+
+<div class="banner-content">
+  <blockquote>
+<p>Dr Anjan Ray, a distinguished figure in the field of Chemical and Energy sectors, brings over three decades of experience to the table. As the Former Director of CSIR-Institute of Petroleum, Dehradun, his contributions have been instrumental in shaping the industry. Dr. Ray’s journey began with a Doctorate in Chemistry from the University of Pennsylvania. His expertise spans a wide spectrum, from Quality Control and Technical Service to R&amp;D, Marketing, and General Management. He has also delved into Mergers &amp; Acquisitions and Corporate Strategy. Don’t miss this chance to learn from a seasoned professional who bridges the gap between science, innovation, and global impact</p>
+</blockquote>
+<h3>Coming Soon</h3>
+<blockquote>
+<p>More information coming soon.</p>
+</blockquote>
+
+</div>
+
+<div class="contact-container">
+  
+  
+  
+
+  
+</div>
+
+<div class="buttoncontainer">
+  
     
-    <div class="column">
-      <a href="/events/healthtech/">
-        <img src="/assets/images/events/healthtech.png" alt="Healthtech Ideathon" />
-      </a>
-    </div>
+      <a class="main-button" href="https://www.townscript.com/e/chimera-2024">Register</a>
     
-    <div class="column">
-      <a href="/events/healthtech_datathon/">
-        <img src="/assets/images/events/healthtech.png" alt="Healthtech Datathon" />
-      </a>
-    </div>
-    
-    <div class="column">
-      <a href="/events/presentation/">
-        <img src="/assets/images/events/presentation.png" alt="Research Presentation" />
-      </a>
-    </div>
-    
-    <div class="column">
-      <a href="/events/rocketdesign/">
-        <img src="/assets/images/events/rocketdesign.png" alt="Rocket Design" />
-      </a>
-    </div>
-    
-    <div class="column">
-      <a href="/events/stembowl/">
-        <img src="/assets/images/events/stembowl.png" alt="Stem Bowl" />
-      </a>
-    </div>
-    
-    <div class="column">
-      <a href="/events/triathlon/">
-        <img src="/assets/images/events/acadtri.png" alt="Academic Triathlon" />
-      </a>
-    </div>
-    
-    <div class="column">
-      <a href="/events/webdev/">
-        <img src="/assets/images/events/webdev.png" alt="Webdev Speedrun" />
-      </a>
-    </div>
-    
-  </div>
+  
 </div>
 
         </div>
