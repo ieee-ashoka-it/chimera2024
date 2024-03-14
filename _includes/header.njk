@@ -13,10 +13,15 @@
         class="{% if title and title.toLowerCase() == 'events' %}active{% endif %}">
         events
       </a>
-<!--      <a href="{{ '/faq/' | url }}" 
+                <a href="{{ '/team/' | url }}" 
+        class="{% if title and title.toLowerCase() == 'team' %}active{% endif %}">
+        team
+      </a> 
+    <a href="{{ '/faq/' | url }}" 
         class="{% if title and title.toLowerCase() == 'faq' %}active{% endif %}">
         faq
-      </a> -->
+      </a> 
+
       <a class="button" href="{{ '/assets/downloads/brochure.pdf' | url }}" target="_blank">Brochure</a>
       <a class="button-small" href="{{ '/assets/downloads/brochure.pdf' | url }}" target="_blank"><i class="fas fa-flask"></i></a>
     </div>
