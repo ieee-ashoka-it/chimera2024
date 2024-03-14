@@ -1,27 +1,12 @@
 @font-face {
   font-family: iceland;
-  src: url(../fonts/Iceland.ttf);
+  src: url(../fonts/CircularStd-Book.otf);
 }
 
 /* for title */
 @font-face {
   font-family: octopost;
   src: url(../fonts/Elianto-Regular.ttf);
-}
-
-@font-face {
-  font-family: circular-book;
-  src: url(../fonts/CircularStd-Book.otf);
-}
-
-@font-face {
-  font-family: circular-medium;
-  src: url(../fonts/CircularStd-Medium.otf);
-}
-
-@font-face {
-  font-family: circular-bold;
-  src: url(../fonts/CircularStd-Bold.otf);
 }
 
 * {
