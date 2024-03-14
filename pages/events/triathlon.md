@@ -11,5 +11,4 @@ links:
 
 >Calling all enthusiasts who love the thrill of problem-solving and quizzing! Academic Triathlon is the ultimate battleground where participants engage in classic quizzing with an exciting twist – solving Integration questions, approximation problems and a surprise bee in the end. Test your knowledge and critical thinking skills against your peers for a chance to claim the prestigious 50k INR prize. Join Fermi Bee and let your inquisitive mind lead the way in this intellectually stimulating challenge!
 
-### Coming Soon
 > More information coming soon.
