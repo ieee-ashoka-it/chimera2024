@@ -1,7 +1,7 @@
 {
   "name": "chimera-2024",
   "version": "1.0.0",
-  "description": "Chimera 2024 Website.",
+  "description": "Chimera 2024 Website",
   "main": "index.js",
   "scripts": {
     "start": "eleventy --serve --watch",

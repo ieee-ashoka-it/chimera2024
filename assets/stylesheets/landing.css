@@ -104,6 +104,20 @@ body {
   align-items: center;
   position: relative;
 }
+
+.chimera-wrap .glitch{
+  position: relative;
+}
+
+div#landing-year {
+  display: block;
+  position: absolute !important;
+  bottom: 8px;
+  text-align: left;
+  right: calc(0px - 18%);
+  font-size: 1.2rem;
+}
+
 .spacing {
   margin-top: 20rem;
 }
