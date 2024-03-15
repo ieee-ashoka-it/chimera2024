@@ -14,7 +14,7 @@ main .content {
   justify-content: center;
 }
 
-img {
+.selected-image {
   box-shadow: 5px 8px 13px rgba(0, 0, 0, 0.45);
   transition: transform 0.35s;
   height: 400px;
@@ -22,7 +22,7 @@ img {
   object-fit: cover;
 }
 
-img:hover {
+.selected-image:hover {
   transform: scale(1.05);
 }
 
@@ -33,7 +33,7 @@ img:hover {
     grid-gap: 1.7em;
   }
 
-  img {
+  .selected-image {
     height: auto;
     width: 250px;
   }

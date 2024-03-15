@@ -14,7 +14,7 @@ pagination:
     {% for talk in talks %}
     <div class="column">
       <a href="{{ talk.url | url }}">
-        <img src="{{ talk.data.image | url }}" alt="{{ talk.data.title }}" />
+        <img class="selected-image" src="{{ talk.data.image | url }}" alt="{{ talk.data.title }}" />
       </a>
     </div>
     {% endfor %}

@@ -1,6 +1,6 @@
 ---
 layout: base-layout.njk
-title: Events
+title: Competitions
 styles: events.css
 permalink: /events/
 pagination:
@@ -14,7 +14,7 @@ pagination:
     {% for event in events %}
     <div class="column">
       <a href="{{ event.url | url }}">
-        <img src="{{ event.data.image | url }}" alt="{{ event.data.title }}" />
+        <img class="selected-image" src="{{ event.data.image | url }}" alt="{{ event.data.title }}" />
       </a>
     </div>
     {% endfor %}
