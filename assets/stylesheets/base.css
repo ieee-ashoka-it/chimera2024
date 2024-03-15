@@ -65,10 +65,10 @@ header nav .title a .glitch:hover {
 
 header nav .nav-links a,
 header nav .nav-links a:visited {
-  margin-left: 1.5rem;
+  margin-left: 1rem;
   padding-bottom: 5px;
   color: #FFFFFF;
-  letter-spacing: 4px;
+  letter-spacing: 3px;
   font-family: "spaceMonoRegular";
   font-size: 0.9rem;
   position: relative;
@@ -164,13 +164,13 @@ header nav .nav-links a.button-small {
   header nav .nav-links a.button,
   header nav .nav-links a.button-small {
     color: #f8f8f8;
-    background-color: #d52ed8;
+    background-color: cyan;
   }
 
   header nav .nav-links a.button:hover,
   header nav .nav-links a.button-small:hover {
-    background-color: rgb(53, 209, 209);
-    color: #bd25c0;
+    background-color: #5303FF;
+    color: #FFFFFF;
   }
 
   header nav .nav-links a.button-small {
