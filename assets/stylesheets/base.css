@@ -67,7 +67,7 @@ header nav .nav-links a,
 header nav .nav-links a:visited {
   margin-left: 1.5rem;
   padding-bottom: 5px;
-  color: #FFBE37;
+  color: #FFFFFF;
   letter-spacing: 4px;
   font-family: "spaceMonoRegular";
   font-size: 0.9rem;
@@ -258,7 +258,7 @@ main .content h1 {
 }
 
 main .content h2 {
-  color: #FFBE37;
+  color: #FFFFFF;
   font-weight: 400;
   font-size: 3rem;
   margin-top: 1rem;
@@ -411,11 +411,11 @@ footer .navigation a {
 }
 
 footer .navigation a:hover {
-  color: #FFBE37;
+  color: #FFFFFF;
 }
 
 footer .socials i:hover {
-  color: #FFBE37;
+  color: #FFFFFF;
 }
 
 footer .socials {
