@@ -4,9 +4,6 @@ title: Professor Panel
 tags: ["talk"]
 permalink: /talks/panel/
 image: /assets/images/events/panel.png
-links:
-  - name: "Register"
-    link: "https://www.townscript.com/e/chimera-2024"
 ---
 
 >Join us for an enlightening Professor Panel event, where esteemed academics from Ashoka University and beyond will gather to discuss pertinent themes in academia. Our panelists include Dr. Vijayraghavan, Chair of the Ashoka Scientific Council and Ex-Principal Scientific Advisor; Prof. Ramgopal Rao, Group Vice Chancellor at BITS Pilani; Prof. Rudra Pratap, Founding Vice Chancellor at Plaksha; and Dr. Anurag Agarwal, Dean of the Trivedi School of Biosciences and Ex-Director of CSIR-IGI.
