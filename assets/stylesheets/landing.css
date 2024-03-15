@@ -73,11 +73,6 @@ body {
   height: 2px;
   left: 50%;
   position: absolute;
-  background: cyan;
-  -o-transition: width 0.3s ease 0s, left 0.3s ease 0s;
-  -webkit-transition: width 0.3s ease 0s, left 0.3s ease 0s;
-  -moz-transition: width 0.3s ease 0s, left 0.3s ease 0s;
-  transition: width 0.3s ease 0s, left 0.3s ease 0s;
   width: 0;
 }
 

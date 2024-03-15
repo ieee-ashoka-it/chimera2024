@@ -25,7 +25,10 @@
         class="{% if title and title.toLowerCase() == 'faq' %}active{% endif %}">
         faq
       </a> 
-
+    <a href="{{ '/contact/' | url }}" 
+        class="{% if title and title.toLowerCase() == 'contact' %}active{% endif %}">
+        contact us
+      </a> 
       <a class="button" href="{{ site.registerLink | url }}" target="_blank">Register</a>
       <a class="button-small" href="{{ site.registerLink | url }}" target="_blank"><i class="fas fa-flask"></i></a>
     </div>
