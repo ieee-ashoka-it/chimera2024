@@ -67,8 +67,13 @@ header nav .nav-links a,
 header nav .nav-links a:visited {
   margin-left: 1rem;
   padding-bottom: 5px;
+<<<<<<< HEAD
   color: #FFFFFF;
   letter-spacing: 3px;
+=======
+  color: #FFBE37;
+  letter-spacing: 4px;
+>>>>>>> 90be6aff819e93365a4595ec2cc708ab8dd4bfa1
   font-family: "spaceMonoRegular";
   font-size: 0.9rem;
   position: relative;
@@ -199,6 +204,7 @@ main {
 }
 
 main .content {
+  text-align: justify;
   width: 65%;
   text-align: start;
   padding-left: 30px;
@@ -224,7 +230,7 @@ main .content {
 main .content .line-br {
   height: 15px;
   position: relative;
-  margin-bottom: 20px;
+  margin-bottom: 50px;
 }
 
 main .content .line-br span.line-br-1 {
@@ -253,12 +259,12 @@ main .content h1 {
   color: white;
   font-size: 1.7rem;
   font-weight: 400;
-  padding-bottom: 30px;
+  padding-bottom: 50px;
   text-transform: uppercase;
 }
 
 main .content h2 {
-  color: #FFFFFF;
+  color: #FFBE37;
   font-weight: 400;
   font-size: 3rem;
   margin-top: 1rem;
@@ -266,7 +272,7 @@ main .content h2 {
 }
 
 main .content h3 {
-  color: rgba(255,255,255,0.8);
+  color: rgba(255,190,55,0.8);
   font-weight: 400;
   font-size: 1.6rem;
   line-height: 30px;
@@ -411,11 +417,11 @@ footer .navigation a {
 }
 
 footer .navigation a:hover {
-  color: #FFFFFF;
+  color: #FFBE37;
 }
 
 footer .socials i:hover {
-  color: #FFFFFF;
+  color: #FFBE37;
 }
 
 footer .socials {
@@ -459,3 +465,5 @@ footer .socials a i {
     margin: 0 0.5rem;
   }
 }
+
+

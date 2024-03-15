@@ -1,6 +1,7 @@
 main .content p {
   margin-top: 3rem;
   margin-bottom: 3rem;
+  text-align: justify;
 }
 
 main .content h3 {
@@ -10,6 +11,7 @@ main .content h3 {
 
 main .content {
   padding-bottom: 4rem;
+  text-align: justify;
 }
 
 .map-container {
