@@ -224,7 +224,7 @@ main .content {
 main .content .line-br {
   height: 15px;
   position: relative;
-  margin-bottom: 50px;
+  margin-bottom: 20px;
 }
 
 main .content .line-br span.line-br-1 {
@@ -253,7 +253,7 @@ main .content h1 {
   color: white;
   font-size: 1.7rem;
   font-weight: 400;
-  padding-bottom: 50px;
+  padding-bottom: 30px;
   text-transform: uppercase;
 }
 
@@ -266,7 +266,7 @@ main .content h2 {
 }
 
 main .content h3 {
-  color: rgba(255,190,55,0.8);
+  color: rgba(255,255,255,0.8);
   font-weight: 400;
   font-size: 1.6rem;
   line-height: 30px;
