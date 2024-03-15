@@ -269,25 +269,10 @@ div#landing-year {
 
 .options div a:hover,
 .coordinates a:hover {
-  color: #c400c6;
+  color: #FFBE37;
   text-shadow: 1px 0px 10px rgba(153, 75, 161, 0.2);
-  -moz-transition: all 0.2s ease-in;
-  -o-transition: all 0.2s ease-in;
-  -webkit-transition: all 0.2s ease-in;
   transition: all 0.2s ease-in;
   cursor: pointer;
-}
-
-.options div:nth-child(odd):hover {
-  -ms-transform: rotate(5deg);
-  -webkit-transform: rotate(5deg);
-  transform: rotate(5deg);
-}
-
-.options div:nth-child(even):hover {
-  -ms-transform: rotate(-5deg);
-  -webkit-transform: rotate(-5deg);
-  transform: rotate(-5deg);
 }
 
 @keyframes wobble {
