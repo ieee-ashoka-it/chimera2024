@@ -1,6 +1,6 @@
 @font-face {
   font-family: iceland;
-  src: url(../fonts/Iceland.ttf);
+  src: url(../fonts/CircularStd-Book.otf);
 }
 
 /* for title */
@@ -27,7 +27,7 @@ body {
   font-family: "iceland";
   text-transform: uppercase;
   position: absolute;
-  font-size: 1rem;
+  font-size: 0.6rem;
   line-height: 40px;
   letter-spacing: 1.5px;
   color: #f8f8f8;
@@ -119,7 +119,27 @@ div#landing-year {
 }
 
 .spacing {
-  margin-top: 20rem;
+  margin-top: 8rem;
+}
+
+.spacing2 {
+  margin-top: 13rem;
+}
+
+
+@media only screen and (max-width: 768px) {
+  .spacing {
+    display: none;
+  }
+
+  div#landing-year {
+    display: block;
+    position: absolute !important;
+    bottom: 8px;
+    text-align: left;
+    right: calc(0px - 22%);
+    font-size: 0.9rem;
+  }
 }
 
 .rotating-animation svg {
@@ -130,7 +150,7 @@ div#landing-year {
 .chimera-wrap {
   position: absolute;
   left: 50%;
-  top: 50%;
+  top: 40%;
   transform: translate(-50%, -50%);
   z-index: 100;
 }
@@ -216,11 +236,11 @@ div#landing-year {
   position: relative;
   color: #f8f8f8;
   font-family: "iceland";
-  font-size: 1rem;
+  font-size: 0.6rem;
 }
 
 .date {
-  font-size: 2.5rem;
+  font-size: 1.8rem;
   font-weight: 500;
   margin-bottom: 0.5rem;
 }
@@ -241,7 +261,7 @@ div#landing-year {
 }
 
 .options {
-  font-size: 1.15rem;
+  font-size: 0.9rem;
   padding: 5px;
   border-top: 1px solid rgba(255, 255, 255, 0.9);
   line-height: 1.75rem;
@@ -288,7 +308,7 @@ div#landing-year {
 
 @media only screen and (max-width: 870px) {
   .corner-nav-item a {
-    font-size: 1rem;
+    font-size: 0.6rem;
     line-height: 30px;
     letter-spacing: 1.2px;
   }
@@ -377,7 +397,7 @@ div#landing-year {
 
   .date-full {
     display: block;
-    font-size: 2rem;
+    font-size: 1.5rem;
     padding: 0;
     margin-bottom: 10px;
   }
@@ -391,7 +411,7 @@ div#landing-year {
   }
 
   .options {
-    font-size: 1.2rem;
+    font-size: 0.9rem;
     padding: 1px;
     border-width: 0.8px;
     line-height: 1.6rem;
