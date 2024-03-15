@@ -118,6 +118,13 @@ div#landing-year {
   font-size: 1.2rem;
 }
 
+div#landing-subt {
+  font-family: "iceland";
+  position: absolute;
+  font-size: 1rem;
+  color: #cccccc;
+}
+
 .spacing {
   margin-top: 10rem;
 }
@@ -140,6 +147,13 @@ div#landing-year {
     font-size: 0.9rem;
   }
 
+  div#landing-subt {
+    font-family: "iceland";
+    position: absolute;
+    font-size: 0.8rem;
+    color: #cccccc;
+  }
+  
   .landing-logo {
     display: none;
   }
