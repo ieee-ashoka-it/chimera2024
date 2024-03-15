@@ -28,6 +28,7 @@ main .content a {
   border-radius: 50%;
   margin-bottom: 0.5rem;
   transition: transform 0.4s;
+  object-fit: cover
 }
 
 .team .person .avatar:hover {
@@ -45,7 +46,7 @@ main .content a {
 }
 
 .team .person .designation {
-  color: #FFFFFF;
+  color: #cccccc;
   text-transform: uppercase;
   font-size: 0.8rem;
 }

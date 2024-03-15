@@ -118,6 +118,11 @@
         "name" : "Hitee Bhardwaj",
         "image" : "hitee_bhardwaj.jpeg",
         "designation" : "Member"
+      },
+      {
+        "name" : "Tamanna Ail",
+        "image" : "Tamanna_Ail.jpeg",
+        "designation" : "Member"
       }
           
     ]
@@ -134,7 +139,12 @@
         "name" : "Rhea Wali",
         "image" : "Rhea_Wali.png",
         "designation" : "Co-director"
-      } 
+      },
+      {
+        "name" : "Sashwat Dhanuka",
+        "image" : "Sashwat_Dhanuka.jpg",
+        "designation" : "Member"
+      }
     ]
   }
 
