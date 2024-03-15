@@ -225,7 +225,7 @@ main .content {
 main .content .line-br {
   height: 15px;
   position: relative;
-  margin-bottom: 50px;
+  margin-bottom: 30px;
 }
 
 main .content .line-br span.line-br-1 {
@@ -259,7 +259,7 @@ main .content h1 {
 }
 
 main .content h2 {
-  color: #FFBE37;
+  color: #FFFFFF;
   font-weight: 400;
   font-size: 3rem;
   margin-top: 1rem;
@@ -267,7 +267,7 @@ main .content h2 {
 }
 
 main .content h3 {
-  color: rgba(255,190,55,0.8);
+  color: rgba(255,255,255,0.8);
   font-weight: 400;
   font-size: 1.6rem;
   line-height: 30px;
@@ -412,11 +412,11 @@ footer .navigation a {
 }
 
 footer .navigation a:hover {
-  color: #FFBE37;
+  color: #FFFFFF;
 }
 
 footer .socials i:hover {
-  color: #FFBE37;
+  color: #FFFFFF;
 }
 
 footer .socials {
