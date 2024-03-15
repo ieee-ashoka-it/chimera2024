@@ -119,13 +119,12 @@ div#landing-year {
 }
 
 .spacing {
-  margin-top: 8rem;
+  margin-top: 10rem;
 }
 
 .spacing2 {
-  margin-top: 13rem;
+  margin-top: 10rem;
 }
-
 
 @media only screen and (max-width: 768px) {
   .spacing {
@@ -140,6 +139,11 @@ div#landing-year {
     right: calc(0px - 22%);
     font-size: 0.9rem;
   }
+
+  .landing-logo {
+    display: none;
+  }
+  
 }
 
 .rotating-animation svg {
