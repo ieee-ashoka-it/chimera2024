@@ -6,10 +6,14 @@ permalink: /talks/panel/
 image: /assets/images/events/panel.png
 ---
 
->Join us for an enlightening Professor Panel event, where esteemed academics from Ashoka University and beyond will gather to discuss pertinent themes in academia. Our panelists include Dr. Vijayraghavan, Chair of the Ashoka Scientific Council and Ex-Principal Scientific Advisor; Prof. Ramgopal Rao, Group Vice Chancellor at BITS Pilani; Prof. Rudra Pratap, Founding Vice Chancellor at Plaksha; and Dr. Anurag Agarwal, Dean of the Trivedi School of Biosciences and Ex-Director of CSIR-IGI.
+> Join us for an enlightening Professor Panel event, where esteemed academics from Ashoka University and beyond will gather to discuss pertinent themes in academia. Our panelists include:
+>
+> - Dr. Vijayraghavan, Chair of the Ashoka Scientific Council and Ex-Principal Scientific Adviser to Govt of India
+> - Dr. Anurag Agarwal, Dean of the Trivedi School of Biosciences and Ex-Director of CSIR-IGI.
+> - Dr. Tanushree Dasgupta, Director, S.N. Bose National Centre for Basic Sciences
+> - Prof. Ramgopal Rao, Group Vice Chancellor of BITS Pilani Campuses
+> - Prof. Rudra Pratap, Founding Vice Chancellor of Plaksha University
 
->This distinguished group of scholars will delve into the latest advancements in STEM fields, the future of research and innovation, and other relevant topics. Students are encouraged to actively participate in the discussion, interact directly with the professors, and contribute their perspectives.
-
->Don't miss this unique opportunity to engage with academic luminaries, expand your knowledge, and explore the frontiers of academia together!
+> This distinguished group of scholars will address questions pertaining to the theme of our panel: _Success Stories in Academia_. Don't miss out on the valuable tidbits of information from their own personal journeys that these speakers will have in store for us!
 
 > More information coming soon.

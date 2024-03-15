@@ -1,6 +1,6 @@
 ---
 layout: event-layout.njk
-title: Research Presentation
+title: Project Showcase
 tags: ["event"]
 permalink: /events/presentation/
 image: /assets/images/events/presentation.png
@@ -9,6 +9,6 @@ links:
     link: "https://forms.gle/DXGG4ggwEddvn3ib8"
 ---
 
->Embark on a journey of discovery at our upcoming Research Presentation event! Calling all students passionate about research, this is your chance to shine. Showcase your hard work, dedication, and innovative ideas to a captivated audience of peers, professors, and professionals. From groundbreaking experiments to insightful analyses, share your findings and contribute to the collective knowledge pool. Network with fellow researchers, gain valuable feedback, and forge connections that could shape your academic and professional future. Don't miss this opportunity to elevate your research and make a lasting impact in your field. Join us and let your curiosity and ingenuity take center stage!
+> Are you looking for a platform to present your findings from your recent research project? Are you looking to show off and demonstrate your newest prototype from your recent design project? Well, look no further as Chimera’s Project Showcase has got you covered. With multiple possible modes of presentation (poster, powerpoint, demos, etc.), make the most out of our opportunity and showcase your latest work to your peers! The showcase also serves as a networking opportunity to forge connections while also being able to gain valuable feedback for your projects.
 
 > More information coming soon.
