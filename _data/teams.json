@@ -42,7 +42,22 @@
         "name" : "Maaher Bhagwagar",
         "image" : "maaher_bhagwagar.jpg",
         "designation" : "Member"
-      }    
+      },
+      {
+        "name" : "Shivansh Verma",
+        "image" : "shivansh_verma.jpg",
+        "designation" : "Member"
+      },
+      {
+        "name" : "Karan Kumar",
+        "image" : "karan_kumar.jpg",
+        "designation" : "Member"
+      },
+      {
+        "name" : "Angad Singh",
+        "image" : "angad_singh.jpg",
+        "designation" : "Member"
+      }
     ]
   },
   {
@@ -82,7 +97,17 @@
         "name" : "Trsha Harish",
         "image" : "trsha_harish.jpeg",
         "designation" : "Member"
-      }  
+      },
+      {
+        "name" : "Melisa Musanzika",
+        "image" : "melisa_musanzika.jpg",
+        "designation" : "Member"
+      },
+      {
+        "name" : "Riya Jain",
+        "image" : "riya_jain.jpg",
+        "designation" : "Member"
+      }
     ]
   },
   {
@@ -144,6 +169,21 @@
         "name" : "Sashwat Dhanuka",
         "image" : "Sashwat_Dhanuka.jpg",
         "designation" : "Member"
+      },
+      {
+        "name": "Shreenand Bhattad",
+        "image": "Shreenand_Bhattad.jpg",
+        "designation": "Member"
+      },
+      {
+        "name": "Kaushik Patra",
+        "image": "Kaushik_Patra.jpg",
+        "designation": "Member"
+      },
+      {
+        "name": "Ved Parekh",
+        "image": "Ved_Parekh.jpg",
+        "designation": "Member"
       }
     ]
   }
