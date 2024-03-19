@@ -52,11 +52,6 @@
         "name" : "Karan Kumar",
         "image" : "karan_kumar.jpg",
         "designation" : "Member"
-      },
-      {
-        "name" : "Angad Singh",
-        "image" : "angad_singh.jpg",
-        "designation" : "Member"
       }
     ]
   },
