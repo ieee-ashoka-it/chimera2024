@@ -7,8 +7,44 @@ image: /assets/images/events/datathon.png
 links:
   - name: "Register"
     link: "https://www.townscript.com/e/chimera-2024"
+poc:
+  - name: "Rushil Gupta"
+    email: "rushil.gupta_ug2023@ashoka.edu.in"
+prizes: 
+  - pool: " Cash + Internship (Total worth ~50K*)"
+    positions:
+      - position: "First Place"
+        amount: "Paid internships under KCDHA"
+      - position: "Second Place"
+        amount: "5k"
+      - position: "Third Place"
+        amount: "3k"
+
 ---
 
-> Calling all the data enthusiasts out there! Immerse yourself in the KCDH Healthtech Datathon, where participants aim to solve a given problem using real-world health datasets. Creatively generate insights and analytics with the potential to transform healthcare. Compete for prizes worth 10K+ and the chance to spend your summer interning at the Koita Centre for Digital Health and Analytics at Ashoka University, all while contributing to reshaping the future of healthcare. Join the Datathon and contribute significantly to reshaping the future of healthtech analytics with your analytical acumen.
+Interested in health and high-dimensional data? Here is the competition for you! The objective of this competition is to allow for an interdisciplinary collaboration which allows for efficient inferences drawn from complex health data. The competition encourages developing teams with multiple domains coming together and working to their strengths. Teams may choose one of the two offered tracks in the datathon and take 24 hours to present their critical findings in presentation format to the judges.
 
-> More information coming soon.
+### Competition Guidelines
+Tracks for the competition (Choose either): 
+- **Track 1**: Longitudinal Data Analysis and Inference
+  - Participants will engage with longitudinal datasets to extract meaningful patterns and insights. Utilizing longitudinal classification techniques, teams will be tasked with identifying trends, anomalies, or predictive markers within the dataset. The focus will be on creative and insightful analysis, with higher marks awarded for more novel and impactful inferences.
+- **Track 2**: Efficient Resource Allocation in Healthcare  
+  - This theme revolves around analyzing data related to healthcare resources, including medications and equipment. Participants will explore optimization strategies for resource distribution, aiming to identify potential efficiencies or waste in healthcare settings. Proposals should focus on practical, actionable insights that could lead to improved resource management in real-world healthcare systems.
+
+### What to expect:
+The competition would be based on a health dataset based on electronic health records including detailed data fields for each patient including but not limited to the demographics, and the details of each admission episode. 
+- A dataset along with a detailed description of it, including the headers and some domain specific context would be provided to participants. Some preprocessing pipelines would also be provided as a guide in the form of a jupyter notebook.
+- A scheduled helpdesk will be available for participants to clarify doubts 
+- Participants will be given information on exactly what is expected of them (once they have gotten comfortable with the dataset) 
+- Participants continue their work and finish the deliverables, submitting their decks
+- The top 5 decks are selected and are asked to present their ideas: ~5 minutes of presentation and 5 of rebuttals
+- Winners are selected afterward
+
+### Event Details
+- **Date**: 30th March 2024
+- **Time**: 11:00 AM - 5:00 PM
+- **Location**: AC04-002,003,004,009, Ashoka University
+- **Team Size**: 3-5 participants per team
+- **Registration Deadline**: Till start of event
+
+*Internships are subject to the team size, performance and internship contract conditions being met

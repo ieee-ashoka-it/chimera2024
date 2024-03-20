@@ -7,8 +7,33 @@ image: /assets/images/events/stembowl.png
 links:
   - name: "Register"
     link: "https://www.townscript.com/e/chimera-2024"
+poc:
+  - name: "Aryan Nath"
+    email: "aryan.nath_ug25@ashoka.edu.in"
+prizes: 
+  - pool: "30k INR"
+    positions:
+      - position: "First Place"
+        amount: "15k"
+      - position: "Second Place"
+        amount: "10k"
+      - position: "Third Place"
+        amount: "5k"
 ---
 
-> Organised by Ashoka University’s own Quizzing Club, the STEM Bowl promises to be the ultimate opportunity to show off your knowledge in scientific trivia. Register to be a part of the spectacle where university teams can battle each other and strive to win our large prize pool and the respect of all other teams!
+Chakraview and Chimera are joining forces to bring you the ultimate STEM and Entrepreneurship quizzing experience. Open to anyone interested in quizzing, come in teams and show off your trivia knowledge! The quiz will consist of two rounds: prelims and the showdown between the finalist teams. Whether you are a beginner to quizzing or a veteran, we invite any and all who are open to get their awareness in STEM and entrepreneurship to be tested.
 
-> More information coming soon.
+### Competition Guidelines
+- There will be a written prelim, with 15 questions. The quizmaster will revisit all the questions after presenting the 15th question, to ensure participants get necessary time to catch up if needed.
+- Top 6 teams from the prelim qualify for an onstage final
+- The final round will also include 15 questions. But, to make it as riveting as possible, the entire round will be on buzzers.
+- The questions will be presented one at a time, after which the buzzers will be unlocked.
+- Teams will need to buzz to get the chance to answer.
+- Scoring will be +100/-50, to maintain high stakes for every question.
+- We will keep going in the order of the teams buzzing till a team gets the correct answer, before we open the question up to the audience.
+- Top 3 teams in the final win cash prizes from the prize pool!
+
+### Event Details
+- **Date**: 30th March 2024
+- **Time**: 11:00 AM - 5:00 PM
+- **Location**: Reddy’s Auditorium

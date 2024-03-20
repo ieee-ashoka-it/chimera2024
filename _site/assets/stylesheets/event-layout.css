@@ -36,6 +36,9 @@ main .content ol li {
   margin-bottom: 140px;
 }
 
+.prize-container {
+  margin-bottom: 20px;
+}
 main .content h3 {
   margin-bottom: 1.5rem;
   margin-top: 1.5rem;
@@ -58,7 +61,7 @@ h3 + h4 + p {
   .banner-image {
     float: none;
     margin: 0 auto;
-    margin-bottom: 20px;
+    margin-bottom: 90px;
     width: inherit;
   }
   .register-button {
@@ -99,13 +102,13 @@ h3 + h4 + p {
 }
 ::-moz-selection {
   /* Code for Firefox */
-  color: rgb(202, 2, 206);
-  background: rgb(87, 0, 126);
+  color: #FFFFFF;
+  background: rgba(154,172,255,0.6);
 }
 
 ::selection {
-  color: rgb(202, 2, 206);
-  background: rgb(87, 0, 126);
+  color: #FFFFFF;
+  background: rgba(154,172,255,0.6);
 }
 
 .main-button {

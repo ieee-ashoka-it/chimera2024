@@ -7,8 +7,45 @@ image: /assets/images/events/rocketdesign.png
 links:
   - name: "Register"
     link: "https://www.townscript.com/e/chimera-2024"
+poc:
+  - name: "Aditi Singh"
+    email: "aditi.singh_ug24@ashoka.edu.in"
+prizes: 
+  - pool: "45k INR"
+    positions:
+      - position: "First Place"
+        amount: "25k"
+      - position: "Second Place"
+        amount: "12k"
+      - position: "Third Place"
+        amount: "8k"
 ---
 
-> Attention all rocket aficionados and future engineers! Get ready for an exhilarating adventure with our Rocket Design Challenge! With this event, you will be channeling your inner genius as you craft and launch mini-rockets using sustainable materials sourced right from our campus. It's not just about theoretical physics; it's about unleashing your creativity and propelling innovation (and your rockets) to new heights! Additionally, you will be competing for the stellar 10k+ INR prize pool… so bring your wits to the event and play to win ;)
+Dreamt of designing and launching your own rocket? Dreamt of doing this while also remaining environmentally conscious? Well, look no further! In your teams of 3-5,  build and launch DIY mini rockets made from the scrap materials provided. Guidelines and Materials shall be shared with every team at the very beginning, and they will be given 4 hours to design and build their rockets, post which they shall be tested and judged by Ashokan Professors based on the scoring criteria. You don’t need any experience with astrophysics or rocket science to have a shot at the 45k prize pool, there’s a place for everyone in our scrapyard showdown!
 
-> More information coming soon.
+### Competition Guidelines
+#### Skills that will be tested: 
+- Innovation: Teams will need to think outside the box (or bottle!) to transform scrap materials into high-flying rockets that defy expectations and capture the imagination.
+- Problem-solving: From designing aerodynamic fins to perfecting the art of propulsion, participants will need to identify and overcome obstacles and find creative solutions every step of the way.
+- Showmanship: It's not just about building rockets – it's about putting on a show! Teams are encouraged to inject personality and pizzazz into their creations, from flashy paint jobs to out-of-this-world names and themes.
+
+#### How the competition will be conducted:
+- Participants will receive a briefing at the beginning of the event, outlining the competition rules, guidelines, and scoring criteria.
+- Teams will select their materials from the provided scrap pile or scavenge for additional items around the campus.
+- Over the course of 4 hours, teams will work together to design, build, and test their rockets, with volunteers available to provide assistance if needed.
+- After the 4 hours, rockets will be tested in the order of a sign-up sheet, with judges evaluating their range, design choices, and adherence to physics principles.
+- Winners will be determined based on a combination of factors, including range, creativity, and application of physics principles, with prizes awarded to top-performing teams.
+
+
+#### More information:
+- We will be providing basic manuals and resources on building a mini-rocket, however if participants wish to study the same prior to the event, they are most welcome to!
+- All the basic material to build a mini rocket will be provided by us (Plastic Bottles, adhesives etc), but again, the participants are free to scavenge items from around the campus.
+- We encourage you to have themed rockets, outrageous designs, obnoxious paint jobs- since having fun in the event is what we wish for you. 
+- We will be scoring on three broad criterias- Range of the Rocket, Design Choices (based on physics principles) and Creativity. 
+
+### Event Details
+- **Date**: 30th March 2024
+- **Time**: 11:00 AM - 5:00 PM
+- **Location**: AC02 206&207
+- **Team Size**: 3-5 participants per team
+- **Registration Deadline**: 27th March

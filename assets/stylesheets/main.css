@@ -95,13 +95,13 @@ img #lines {
 
 ::selection,
 ::-webkit-selection {
-  color: #f8f8f8;
-  background:#c400c6;
+  color: #FFFFFF;
+  background: rgba(154,172,255,0.6);
 }
 
 ::-moz-selection {
-  color: #f8f8f8;
-  background:#c400c6;
+  color: #FFFFFF;
+  background: rgba(154,172,255,0.6);
 }
 
 /* For mobile devices: */
