@@ -11,14 +11,14 @@ poc:
   - name: "Aditi Singh"
     email: "aditi.singh_ug24@ashoka.edu.in"
 prizes: 
-  - pool: "45k INR"
+  - pool: "45,000 INR"
     positions:
       - position: "First Place"
-        amount: "25k"
+        amount: "25,000"
       - position: "Second Place"
-        amount: "12k"
+        amount: "12,000"
       - position: "Third Place"
-        amount: "8k"
+        amount: "8,000"
 ---
 
 Dreamt of designing and launching your own rocket? Dreamt of doing this while also remaining environmentally conscious? Well, look no further! In your teams of 3-5,  build and launch DIY mini rockets made from the scrap materials provided. Guidelines and Materials shall be shared with every team at the very beginning, and they will be given 4 hours to design and build their rockets, post which they shall be tested and judged by Ashokan Professors based on the scoring criteria. You don’t need any experience with astrophysics or rocket science to have a shot at the 45k prize pool, there’s a place for everyone in our scrapyard showdown!

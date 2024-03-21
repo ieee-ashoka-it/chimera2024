@@ -11,14 +11,14 @@ poc:
   - name: "Aryan Nath"
     email: "aryan.nath_ug25@ashoka.edu.in"
 prizes: 
-  - pool: "45k INR"
+  - pool: "45,000 INR"
     positions:
       - position: "First Place"
-        amount: "25k"
+        amount: "25,000"
       - position: "Second Place"
-        amount: "12k"
+        amount: "12,000"
       - position: "Third Place"
-        amount: "8k"
+        amount: "8,000"
 ---
 
 Calling all web wizzes! Put your design and development skills to the test by replicating a given sample website under a time crunch. We’re open to any frameworks you want to use, the only constraint is you have to make everything with code, no UI tools such as Figma or generative AI tools are allowed. We'll be looking for matches in terms of layout, functionality, and responsiveness across all devices. Additional backend features added to improve the website will receive extra points. So sharpen your development skills, and get ready to showcase your website cloning expertise!

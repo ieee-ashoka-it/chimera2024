@@ -11,14 +11,14 @@ poc:
   - name: "Tista Bhattacharya"
     email: "tista.bhattacharya_ug24@ashoka.edu.in"
 prizes: 
-  - pool: "45k INR"
+  - pool: "45,000 INR"
     positions:
       - position: "First Place"
-        amount: "25k"
+        amount: "25,000"
       - position: "Second Place"
-        amount: "12k"
+        amount: "12,000"
       - position: "Third Place"
-        amount: "8k"
+        amount: "8,000"
 
 ---
 

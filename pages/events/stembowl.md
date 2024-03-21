@@ -11,14 +11,14 @@ poc:
   - name: "Aryan Nath"
     email: "aryan.nath_ug25@ashoka.edu.in"
 prizes: 
-  - pool: "30k INR"
+  - pool: "30,000 INR"
     positions:
       - position: "First Place"
-        amount: "15k"
+        amount: "15,000"
       - position: "Second Place"
-        amount: "10k"
+        amount: "10,000"
       - position: "Third Place"
-        amount: "5k"
+        amount: "5,000"
 ---
 
 Chakraview and Chimera are joining forces to bring you the ultimate STEM and Entrepreneurship quizzing experience. Open to anyone interested in quizzing, come in teams and show off your trivia knowledge! The quiz will consist of two rounds: prelims and the showdown between the finalist teams. Whether you are a beginner to quizzing or a veteran, we invite any and all who are open to get their awareness in STEM and entrepreneurship to be tested.

@@ -16,9 +16,9 @@ prizes:
       - position: "First Place"
         amount: "Paid internships under KCDHA"
       - position: "Second Place"
-        amount: "5k"
+        amount: "5,000"
       - position: "Third Place"
-        amount: "3k"
+        amount: "3,0000"
 
 ---
 

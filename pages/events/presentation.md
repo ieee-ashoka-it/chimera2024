@@ -11,14 +11,14 @@ poc:
   - name: "Santripta Sharma"
     email: "santripta.sharma_ug24@ashoka.edu.in"
 prizes: 
-  - pool: "45 INR"
+  - pool: "45,000 INR"
     positions:
       - position: "First Place"
-        amount: "25k"
+        amount: "25,000"
       - position: "Second Place"
-        amount: "12k"
+        amount: "12,000"
       - position: "Third Place"
-        amount: "8k"
+        amount: "8,000"
 ---
 
 Have you been looking for a chance to showcase your original scientific work? Well, look no further than Chimera’s Project Showcase! Whether you are a budding researcher wanting to present your ongoing research results, an aspiring inventor hoping to show off your latest prototype or a tech whiz wanting to demo an innovative web application, we have a spot for you at our Project Showcase! Registered participants will be judged on the basis of the actual contents of their presentation as well as their delivery of presentation. The Showcase is a brilliant opportunity to find like-minded scientists and get genuine feedback from your peers as well as knowledgeable Professors. Register now and take your shot at the 45k INR prize pool!
