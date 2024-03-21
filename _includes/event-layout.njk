@@ -7,19 +7,20 @@ prizes:
 ---
 <div class="prize-container">
   {% if prizes %}
-    <h3>Prize Pool: {{ prizes[0].pool }}</h3>
+    <h3>Prize Pool: <font color = "#34ff05"> {{ prizes[0].pool }} </font></h3>
   {% endif %}
 </div>
 
 <div class="banner-image">
   <img class = "selected-image1" src="{{ image | url }}" />
   <center>
-      <p>
+      <p><font color = "#ffffff"> 
         {{ prizes[0].positions[0].position }}: {{ prizes[0].positions[0].amount }}
         <br >
         {{ prizes[0].positions[1].position }}: {{ prizes[0].positions[1].amount }}
         <br >
         {{ prizes[0].positions[2].position }}: {{ prizes[0].positions[2].amount }}
+    </font>
     </p>
       </center>
 </div>
