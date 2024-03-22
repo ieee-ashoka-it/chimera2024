@@ -13,6 +13,7 @@ prizes:
 
 <div class="banner-image">
   <img class = "selected-image1" src="{{ image | url }}" />
+  {% if prizes %}
   <center>
       <p><font color = "#ffffff"> 
         {{ prizes[0].positions[0].position }}: {{ prizes[0].positions[0].amount }}
@@ -23,6 +24,7 @@ prizes:
     </font>
     </p>
       </center>
+       {% endif %}
 </div>
 
 
