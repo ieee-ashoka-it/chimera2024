@@ -47,4 +47,4 @@ This competition will be judged by a panel of CS professors at Ashoka.
 - **Date**: 30th March 2024
 - **Time**: 11:00 AM - 5:00 PM
 - **Location**: AC02 206&207
-- **Team Size**: 3-5 participants per team
+- **Team Size**: 1-3 participants per team
