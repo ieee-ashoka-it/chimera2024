@@ -19,7 +19,6 @@ prizes:
         amount: "12,000"
       - position: "Third Place"
         amount: "8,000"
-
 ---
 
 Interested in problem solving, quizzing and showing off your knowledge in the fields of Mathematics and Physics? The LGP Academic Triathlon is the perfect competition for you! The triathlon will consist of three stages tailored to test different academic skills namely mathematical computation, logical reasoning and estimation and trivia / general knowledge in the field of Physics. Teams of 3 will compete to earn points across the stages and the top three teams on the leaderboard at the end will be awarded the cash prizes!

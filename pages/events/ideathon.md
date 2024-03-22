@@ -19,7 +19,6 @@ prizes:
         amount: "12,000"
       - position: "Third Place"
         amount: "8,000"
-
 ---
 
 Interested in innovation and making a change in the health-technology field? The KCDH-A Healthtech Ideathon is for students exactly like you! All teams will be given a health-related prompt for which they will have to develop a tangible idea of a device (like a blueprint, prototype, etc.) with substantial justification through research and reasoning. Take a shot at winning from a prize pool of 45k INR while also receiving professional guidance along the way! 
