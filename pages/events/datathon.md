@@ -47,6 +47,8 @@ A panel of professors and fellows working with the same/similar dataset will be 
 - Interdisciplinary Strength 
 - Presentation 
 
+_Note_: The teams with atleast one non-CS major in their team may get brownie points.
+
 *Subject to the team size, performance, and internship contract conditions being met
 
 ### Event Details
