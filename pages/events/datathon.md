@@ -19,10 +19,8 @@ prizes:
         amount: "5,000"
       - position: "Third Place"
         amount: "3,000"
+desc: "Interested in health and high-dimensional data? Here is the competition for you! The objective of this competition is to allow for an interdisciplinary collaboration that allows for efficient inferences drawn from complex health data. The competition encourages developing teams with multiple domains to come together and work to their strengths. Teams may choose one of the two offered tracks in the marathon and take 30 hours to present their critical findings in presentation format to the judges."
 ---
-
-Interested in health and high-dimensional data? Here is the competition for you! The objective of this competition is to allow for an interdisciplinary collaboration that allows for efficient inferences drawn from complex health data. The competition encourages developing teams with multiple domains to come together and work to their strengths. Teams may choose one of the two offered tracks in the marathon and take 30 hours to present their critical findings in presentation format to the judges.
-
 ### What to expect:
 The competition would be based on a health dataset based on electronic health records, including detailed data fields for each patient, including, but not limited to, demographics and the details of each admission episode. 
 - Participants would be provided with a dataset along with a detailed description of it, including the headers and some domain-specific context. Some preprocessing pipelines would also be provided as a guide in the form of a Jupyter notebook.

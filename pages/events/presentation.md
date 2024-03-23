@@ -19,10 +19,8 @@ prizes:
         amount: "12,000"
       - position: "Third Place"
         amount: "8,000"
+desc: "Have you been looking for a chance to showcase your original scientific work? Well, look no further than Chimera’s Project Showcase! Whether you are a budding researcher wanting to present your ongoing research results, an aspiring inventor hoping to show off your latest prototype or a tech whiz wanting to demo an innovative web application, we have a spot for you at our Project Showcase! Registered participants will be judged on the basis of the actual contents of their presentation as well as their delivery of presentation. The Showcase is a brilliant opportunity to find like-minded scientists and get genuine feedback from your peers as well as knowledgeable Professors. Register now and take your shot at the 45k INR prize pool!"
 ---
-
-Have you been looking for a chance to showcase your original scientific work? Well, look no further than Chimera’s Project Showcase! Whether you are a budding researcher wanting to present your ongoing research results, an aspiring inventor hoping to show off your latest prototype or a tech whiz wanting to demo an innovative web application, we have a spot for you at our Project Showcase! Registered participants will be judged on the basis of the actual contents of their presentation as well as their delivery of presentation. The Showcase is a brilliant opportunity to find like-minded scientists and get genuine feedback from your peers as well as knowledgeable Professors. Register now and take your shot at the 45k INR prize pool!
-
 ### Competition Guidelines
 - Mode of presentation must be mentioned during registration and approved by us beforehand (to ensure we can accommodate your requests)
 - Each participant will be given a space (alongside any requested material) in the Atrium space of Ashoka University where they can set up their presentation

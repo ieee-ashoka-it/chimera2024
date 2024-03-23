@@ -19,10 +19,8 @@ prizes:
         amount: "10,000"
       - position: "Third Place"
         amount: "5,000"
+desc: "Chakraview and Chimera are joining forces to bring you the ultimate STEM and Entrepreneurship quizzing experience. Open to anyone interested in quizzing, come in teams and show off your trivia knowledge! The quiz will consist of two rounds: prelims and the showdown between the finalist teams. Whether you are a beginner to quizzing or a veteran, we invite any and all who are open to get their awareness in STEM and entrepreneurship to be tested."
 ---
-
-Chakraview and Chimera are joining forces to bring you the ultimate STEM and Entrepreneurship quizzing experience. Open to anyone interested in quizzing, come in teams and show off your trivia knowledge! The quiz will consist of two rounds: prelims and the showdown between the finalist teams. Whether you are a beginner to quizzing or a veteran, we invite any and all who are open to get their awareness in STEM and entrepreneurship to be tested.
-
 ### Competition Guidelines
 - There will be a written prelim, with 15 questions. The quizmaster will revisit all the questions after presenting the 15th question, to ensure participants get necessary time to catch up if needed.
 - Top 6 teams from the prelim qualify for an onstage final

@@ -19,10 +19,8 @@ prizes:
         amount: "12,000"
       - position: "Third Place"
         amount: "8,000"
+desc: "Calling all web wizzes! Put your design and development skills to the test by replicating a given sample website under a time crunch. We’re open to any frameworks you want to use, the only constraint is you have to make everything with code, no UI tools such as Figma or generative AI tools are allowed. We'll be looking for matches in terms of layout, functionality, and responsiveness across all devices. Additional backend features added to improve the website will receive extra points. So sharpen your development skills, and get ready to showcase your website cloning expertise!"
 ---
-
-Calling all web wizzes! Put your design and development skills to the test by replicating a given sample website under a time crunch. We’re open to any frameworks you want to use, the only constraint is you have to make everything with code, no UI tools such as Figma or generative AI tools are allowed. We'll be looking for matches in terms of layout, functionality, and responsiveness across all devices. Additional backend features added to improve the website will receive extra points. So sharpen your development skills, and get ready to showcase your website cloning expertise!
-
 ### Competition Guidelines
 We’re looking for front-end developers from any batch with strong skills in developing and designing websites, who can not only replicate the look and feel of a website, but also ensure it functions flawlessly across all devices.
 

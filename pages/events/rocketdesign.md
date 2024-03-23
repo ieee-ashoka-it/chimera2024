@@ -19,10 +19,8 @@ prizes:
         amount: "12,000"
       - position: "Third Place"
         amount: "8,000"
+desc: "Dreamt of designing and launching your own rocket? Dreamt of doing this while also remaining environmentally conscious? Well, look no further! In your teams of 3-5,  build and launch DIY mini rockets made from the scrap materials provided. Guidelines and Materials shall be shared with every team at the very beginning, and they will be given 4 hours to design and build their rockets, post which they shall be tested and judged by Ashokan Professors based on the scoring criteria. You don’t need any experience with astrophysics or rocket science to have a shot at the 45k prize pool, there’s a place for everyone in our scrapyard showdown!"
 ---
-
-Dreamt of designing and launching your own rocket? Dreamt of doing this while also remaining environmentally conscious? Well, look no further! In your teams of 3-5,  build and launch DIY mini rockets made from the scrap materials provided. Guidelines and Materials shall be shared with every team at the very beginning, and they will be given 4 hours to design and build their rockets, post which they shall be tested and judged by Ashokan Professors based on the scoring criteria. You don’t need any experience with astrophysics or rocket science to have a shot at the 45k prize pool, there’s a place for everyone in our scrapyard showdown!
-
 ### Competition Guidelines
 #### Skills that will be tested: 
 - Innovation: Teams will need to think outside the box (or bottle!) to transform scrap materials into high-flying rockets that defy expectations and capture the imagination.

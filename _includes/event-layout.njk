@@ -4,6 +4,7 @@ styles: event-layout.css
 poc:
 links:
 prizes:
+desc:
 ---
 <div class="prize-container">
   {% if prizes %}
@@ -27,6 +28,19 @@ prizes:
        {% endif %}
 </div>
 
+<div class="prize-container">
+  {% if desc %}
+    <p>{{ desc }}</p>
+  {% endif %}
+</div>
+
+<div class="buttoncontainer">
+  {% if links %}
+    {% for link in links %}
+      <a class="main-button" href="{{ link.link | url }}">{{ link.name }}</a>
+    {% endfor %}
+  {% endif %}
+</div>
 
 <div class="banner-content">
   {{ content | safe }}
@@ -45,7 +59,6 @@ prizes:
     </p>
   {% endif %}
 </div>
-
 <div class="buttoncontainer">
   {% if links %}
     {% for link in links %}
