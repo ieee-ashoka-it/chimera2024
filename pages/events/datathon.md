@@ -52,8 +52,8 @@ _Note_: The teams with atleast one non-CS major in their team may get brownie po
 *Subject to the team size, performance, and internship contract conditions being met
 
 ### Event Details
-- **Date**: 30th March 2024
-- **Time**: 11:00 AM - 5:00 PM
+- **Date**: 30-31 March 2024
+- **Time**: 30 March, 11:00 AM - 31 March 5:00 PM
 - **Location**: AC04-002,003,004,009, Ashoka University
 - **Team Size**: 3-5 participants per team
 - **Registration Deadline**: Till start of event

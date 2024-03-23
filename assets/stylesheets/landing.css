@@ -22,6 +22,15 @@ body {
 body {
   overflow-y: hidden;
 }
+.highlighted-text {
+  margin-top: 1rem;
+  background-color: blue; /* Yellow background */
+  padding: 10px; /* Adjust padding as needed */
+  border-radius: 10px; /* Rounded corners */
+  text-align: center; /* Center align text */
+  margin-bottom: 5px; /* Add some space below the highlighted text */
+  font-size: 20px; font-weight: bold; color: #ffffff;
+}
 
 .corner-nav-item a {
   font-family: "iceland";
@@ -152,7 +161,15 @@ div#landing-subt {
   .landing-logo {
     display: none;
   }
-  
+  .highlighted-text {
+    margin-top: 1rem;
+    background-color: blue; /* Yellow background */
+    padding: 10px; /* Adjust padding as needed */
+    border-radius: 10px; /* Rounded corners */
+    text-align: center; /* Center align text */
+    margin-bottom: 5px; /* Add some space below the highlighted text */
+    font-size: 15px; font-weight: bold; color: #ffffff;
+  }
 }
 
 .rotating-animation svg {
@@ -180,6 +197,8 @@ div#landing-subt {
   -webkit-transition: all 0.18s linear 0s;
   transition: all 0.18s linear 0s;
   box-shadow: -6px 6px 0 #ca02ce, 6px -6px 0 #d007d494;
+  margin-top: 3rem;
+  margin-bottom: 1rem;
 }
 
 .main-button span {
