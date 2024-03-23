@@ -144,6 +144,11 @@ div#landing-subt {
     display: none;
   }
 
+  .spacing2 {
+    margin-top: 5rem;
+  }
+  
+
   div#landing-year {
     display: block;
     position: absolute !important;
@@ -164,7 +169,7 @@ div#landing-subt {
     display: none;
   }
   .highlighted-text {
-    margin-top: 1rem;
+    margin-top: 4rem;
     background-color: blue; /* Yellow background */
     padding: 10px; /* Adjust padding as needed */
     border-radius: 10px; /* Rounded corners */
@@ -391,6 +396,7 @@ div#landing-subt {
   .countdown .counter-section .counter-wrap .counter-container {
     flex-direction: row;
     padding: 0;
+    margin-top: 3rem;
   }
   .countdown .counter-section .counter-wrap .counter-box {
     width: 20px;
@@ -436,6 +442,15 @@ div#landing-subt {
     line-height: 1.6rem;
     margin-bottom: 20px;
   }
+
+  .right-content {
+    position: relative;
+    color: #f8f8f8;
+    font-family: "iceland";
+    font-size: 0.6rem;
+    margin-top: 2rem;
+  }
+  
 }
 
 @media only screen and (max-width: 600px) {
