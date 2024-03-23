@@ -24,12 +24,14 @@ body {
 }
 .highlighted-text {
   margin-top: 1rem;
-  background-color: blue; /* Yellow background */
-  padding: 10px; /* Adjust padding as needed */
-  border-radius: 10px; /* Rounded corners */
-  text-align: center; /* Center align text */
-  margin-bottom: 5px; /* Add some space below the highlighted text */
-  font-size: 20px; font-weight: bold; color: #ffffff;
+  background-color: blue; 
+  padding: 10px; 
+  border-radius: 10px; 
+  text-align: center; 
+  margin-bottom: 5px; 
+  font-size: 20px;
+  color: #ffffff;
+  font-family: "iceland";
 }
 
 .corner-nav-item a {
