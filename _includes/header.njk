@@ -5,31 +5,76 @@
     </div>
     
     <div class="nav-links">
-      <a href="{{ '/about/' | url }}"
+    <a href="{{ '/about/' | url }}"
         class="{% if title and title.toLowerCase() == 'about' %}active{% endif %}">
         about
       </a>
-      <a href="{{ '/events/' | url }}" 
-        class="{% if title and title.toLowerCase() == 'events' %}active{% endif %}">
-        competitions
-      </a>
-      <a href="{{ '/talks/' | url }}" 
-        class="{% if title and title.toLowerCase() == 'talks' %}active{% endif %}">
-        speakers
-      </a>
-      <a href="{{ '/team/' | url }}" 
-        class="{% if title and title.toLowerCase() == 'team' %}active{% endif %}">
-        team
-      </a> 
 
-    <a href="{{ '/faq/' | url }}" 
-        class="{% if title and title.toLowerCase() == 'faq' %}active{% endif %}">
-        faq
-      </a> 
-    <a href="{{ '/contact/' | url }}" 
-        class="{% if title and title.toLowerCase() == 'contact' %}active{% endif %}">
-        contact us
-      </a> 
+      <div class="dropdown desktop-only">
+        <div class="dropdown-target">
+          <span>
+            events
+          </span>
+          <span>
+            <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="3" stroke="currentColor" class="w-6 h-6">
+              <path stroke-linecap="round" stroke-linejoin="round" d="m19.5 8.25-7.5 7.5-7.5-7.5" />
+            </svg>
+          </span>
+        </div>
+        <ul>
+          <li><a href="{{ '/events/' | url }}">competitions</a></li>
+          <li><a href="{{ '/talks/' | url }}">speakers</a></li>
+        </ul>
+      </div>
+
+      <div class="dropdown mobile-only">
+        <a href="{{ '/events/' | url }}" 
+          class="nav-link {% if title and title.toLowerCase() == 'events' %}active{% endif %}">
+          competitions
+        </a>
+      </div>
+
+      <div class="dropdown mobile-only">
+        <a href="{{ '/talks/' | url }}" 
+          class="nav-link {% if title and title.toLowerCase() == 'talks' %}active{% endif %}">
+          speakers
+        </a>
+      </div>
+        <a href="{{ '/team/' | url }}" 
+          class="nav-link {% if title and title.toLowerCase() == 'team' %}active{% endif %}">
+          team
+        </a> 
+      <div class="dropdown desktop-only">
+        <div class="dropdown-target">
+          <span>
+            support
+          </span>
+          <span>
+            <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="3" stroke="currentColor" class="w-6 h-6">
+              <path stroke-linecap="round" stroke-linejoin="round" d="m19.5 8.25-7.5 7.5-7.5-7.5" />
+            </svg>
+          </span>
+        </div>
+        <ul>
+          <li><a href="{{ '/faq/' | url }}">faq</a></li>
+          <li><a href="{{ '/contact/' | url }}">contact</a></li>
+        </ul>
+      </div>
+
+      <div class="dropdown mobile-only">
+        <a href="{{ '/faq/' | url }}" 
+          class="nav-link {% if title and title.toLowerCase() == 'faq' %}active{% endif %}">
+          faq
+        </a>
+      </div>
+
+      <div class="dropdown mobile-only">
+        <a href="{{ '/contact/' | url }}" 
+          class="nav-link {% if title and title.toLowerCase() == 'contact' %}active{% endif %}">
+          contact
+        </a>
+      </div>
+
       <a class="button" href="{{ site.registerLink | url }}" target="_blank">Register</a>
       <a class="button-small" href="{{ site.registerLink | url }}" target="_blank">Register</a>
     </div>

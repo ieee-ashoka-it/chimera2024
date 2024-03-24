@@ -29,31 +29,76 @@
     </div>
     
     <div class="nav-links">
-      <a href="/about/"
+    <a href="/about/"
         class="">
         about
       </a>
-      <a href="/events/" 
-        class="">
-        competitions
-      </a>
-      <a href="/talks/" 
-        class="">
-        speakers
-      </a>
-      <a href="/team/" 
-        class="active">
-        team
-      </a> 
 
-    <a href="/faq/" 
-        class="">
-        faq
-      </a> 
-    <a href="/contact/" 
-        class="">
-        contact us
-      </a> 
+      <div class="dropdown desktop-only">
+        <div class="dropdown-target">
+          <span>
+            events
+          </span>
+          <span>
+            <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="3" stroke="currentColor" class="w-6 h-6">
+              <path stroke-linecap="round" stroke-linejoin="round" d="m19.5 8.25-7.5 7.5-7.5-7.5" />
+            </svg>
+          </span>
+        </div>
+        <ul>
+          <li><a href="/events/">competitions</a></li>
+          <li><a href="/talks/">speakers</a></li>
+        </ul>
+      </div>
+
+      <div class="dropdown mobile-only">
+        <a href="/events/" 
+          class="nav-link ">
+          competitions
+        </a>
+      </div>
+
+      <div class="dropdown mobile-only">
+        <a href="/talks/" 
+          class="nav-link ">
+          speakers
+        </a>
+      </div>
+        <a href="/team/" 
+          class="nav-link active">
+          team
+        </a> 
+      <div class="dropdown desktop-only">
+        <div class="dropdown-target">
+          <span>
+            support
+          </span>
+          <span>
+            <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="3" stroke="currentColor" class="w-6 h-6">
+              <path stroke-linecap="round" stroke-linejoin="round" d="m19.5 8.25-7.5 7.5-7.5-7.5" />
+            </svg>
+          </span>
+        </div>
+        <ul>
+          <li><a href="/faq/">faq</a></li>
+          <li><a href="/contact/">contact</a></li>
+        </ul>
+      </div>
+
+      <div class="dropdown mobile-only">
+        <a href="/faq/" 
+          class="nav-link ">
+          faq
+        </a>
+      </div>
+
+      <div class="dropdown mobile-only">
+        <a href="/contact/" 
+          class="nav-link ">
+          contact
+        </a>
+      </div>
+
       <a class="button" href="https://www.townscript.com/e/chimera-2024" target="_blank">Register</a>
       <a class="button-small" href="https://www.townscript.com/e/chimera-2024" target="_blank">Register</a>
     </div>
