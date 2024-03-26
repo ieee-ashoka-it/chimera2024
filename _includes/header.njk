@@ -5,11 +5,10 @@
     </div>
     
     <div class="nav-links">
-    <a href="{{ '/about/' | url }}"
-        class="{% if title and title.toLowerCase() == 'about' %}active{% endif %}">
-        about
-      </a>
-
+        <a href="{{ '/about/' | url }}" 
+          class="nav-link {% if title and title.toLowerCase() == 'about' %}active{% endif %}">
+          about
+        </a> 
       <div class="dropdown desktop-only">
         <div class="dropdown-target">
           <span>
@@ -43,6 +42,14 @@
         <a href="{{ '/team/' | url }}" 
           class="nav-link {% if title and title.toLowerCase() == 'team' %}active{% endif %}">
           team
+        </a> 
+        <a href="{{ '/schedule/' | url }}" 
+          class="nav-link {% if title and title.toLowerCase() == 'schedule' %}active{% endif %}">
+          schedule
+        </a> 
+        <a href="{{ '/raffle/' | url }}" 
+          class="nav-link {% if title and title.toLowerCase() == 'raffle' %}active{% endif %}">
+          raffle
         </a> 
       <div class="dropdown desktop-only">
         <div class="dropdown-target">
