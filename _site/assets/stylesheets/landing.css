@@ -170,12 +170,12 @@ div#landing-subt {
   }
   .highlighted-text {
     margin-top: 4rem;
-    background-color: blue; /* Yellow background */
-    padding: 10px; /* Adjust padding as needed */
-    border-radius: 10px; /* Rounded corners */
-    text-align: center; /* Center align text */
-    margin-bottom: 5px; /* Add some space below the highlighted text */
-    font-size: 15px; font-weight: bold; color: #ffffff;
+    background-color: blue; 
+    padding: 10px; 
+    border-radius: 10px; 
+    text-align: center; 
+    /* margin-bottom: 2px;  */
+    font-size: 13px; font-weight: bold; color: #ffffff;
   }
 }
 
@@ -440,7 +440,7 @@ div#landing-subt {
     padding: 1px;
     border-width: 0.8px;
     line-height: 1.6rem;
-    margin-bottom: 20px;
+    margin-bottom: 1px;
   }
 
   .right-content {
@@ -448,7 +448,7 @@ div#landing-subt {
     color: #f8f8f8;
     font-family: "iceland";
     font-size: 0.6rem;
-    margin-top: 2rem;
+    margin-top: 1.5rem;
   }
   
 }
@@ -515,7 +515,7 @@ div#landing-subt {
   }
 
   .options {
-    margin-bottom: 5px;
+    margin-bottom: 4px;
   }
 }
 
