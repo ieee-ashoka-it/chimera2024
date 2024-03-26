@@ -39,10 +39,6 @@
           speakers
         </a>
       </div>
-        <a href="{{ '/team/' | url }}" 
-          class="nav-link {% if title and title.toLowerCase() == 'team' %}active{% endif %}">
-          team
-        </a> 
         <a href="{{ '/schedule/' | url }}" 
           class="nav-link {% if title and title.toLowerCase() == 'schedule' %}active{% endif %}">
           schedule
@@ -50,6 +46,10 @@
         <a href="{{ '/raffle/' | url }}" 
           class="nav-link {% if title and title.toLowerCase() == 'raffle' %}active{% endif %}">
           raffle
+        </a> 
+        <a href="{{ '/team/' | url }}" 
+          class="nav-link {% if title and title.toLowerCase() == 'team' %}active{% endif %}">
+          team
         </a> 
       <div class="dropdown desktop-only">
         <div class="dropdown-target">
