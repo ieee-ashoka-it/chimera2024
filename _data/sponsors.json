@@ -4,12 +4,25 @@
       "sponsors": [
         {
           "name": "Samara Capital",
-          "image": "logo_samara.png"
+          "image": "samara.svg"
         },
         {
           "name": "Premas Biotech",
-          "image": "logo-premas.png"
-        }]
+          "image": "premas.png"
+        },
+        {
+          "name": "Koita Centre for Digital Health",
+          "image": "kcdh.png"
+        },
+        {
+          "name": "Lodha Genius Programme",
+          "image": "lodha.png"
+        },
+        {
+          "name": "Research Development Office, Ashoka University",
+          "image": "rdo.png"
+        }
+      ]
     }
   ]
   

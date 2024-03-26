@@ -50,8 +50,8 @@ main .content {
   justify-content: space-evenly;
   margin-bottom: 1rem;
   padding: 3rem 0;
-  background-color: white;
-  box-shadow: 5px 8px 13px rgba(0, 0, 0, 0.45);
+  /* background-color: white; */
+  /* box-shadow: 5px 8px 13px rgba(0, 0, 0, 0.45); */
 }
 
 img.sponsor-img {
