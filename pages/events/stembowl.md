@@ -7,9 +7,6 @@ image: /assets/images/events/stembowl.png
 links:
   - name: "Register"
     link: "https://www.townscript.com/e/chimera-2024"
-poc:
-  - name: "Aryan Nath"
-    email: "aryan.nath_ug25@ashoka.edu.in"
 prizes: 
   - pool: "30,000 INR"
     positions:
