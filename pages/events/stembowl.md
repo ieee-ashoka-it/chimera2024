@@ -32,6 +32,6 @@ desc: "Chakraview and Chimera are joining forces to bring you the ultimate STEM 
 - Top 3 teams in the final win cash prizes from the prize pool!
 
 ### Event Details
-- **Date**: 30th March 2024
-- **Time**: 11:00 AM - 5:00 PM
+- **Date**: 31st March 2024
+- **Time**: 3:30 PM - 5:00 PM
 - **Location**: Reddy’s Auditorium
