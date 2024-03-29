@@ -49,6 +49,16 @@ _Note_: The teams with atleast one non-CS major in their team may get brownie po
 
 *Subject to the team size, performance, and internship contract conditions being met
 
+### Tentative Timeline:
+
+- Orientation : 1pm on 30th March, Saturday 
+- Submissions : 3pm on 31st March, Sunday
+- Announcement of finalists : 4pm on Sunday
+- Presentations : 4-6pm on Sunday
+- Closing Ceremony : 6pm on Sunday
+
+
+
 ### Event Details
 - **Date**: 30-31 March 2024
 - **Time**: 30 March, 1:00 PM - 31 March 5:00 PM
