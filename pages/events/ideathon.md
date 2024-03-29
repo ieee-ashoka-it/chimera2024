@@ -32,6 +32,5 @@ desc: "Interested in innovation and making a change in the health-technology fie
 ### Event Details
 - **Date**: 30th March 2024
 - **Time**: 11:00 AM - 5:00 PM
-- **Location**: AC04-002,003,004,009, Ashoka University
+- **Location**: AC04-009
 - **Team Size**: 2-3 participants per team
-- **Registration Deadline**: 25th March

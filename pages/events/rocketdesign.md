@@ -44,6 +44,5 @@ desc: "Dreamt of designing and launching your own rocket? Dreamt of doing this w
 ### Event Details
 - **Date**: 30th March 2024
 - **Time**: 11:00 AM - 5:00 PM
-- **Location**: AC02 206&207
+- **Location**: AC02 007
 - **Team Size**: 3-5 participants per team
-- **Registration Deadline**: 27th March

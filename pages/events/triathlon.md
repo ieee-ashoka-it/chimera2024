@@ -51,5 +51,5 @@ desc: "Interested in problem solving, quizzing and showing off your knowledge in
 ### Event Details
 - **Date**: 30th March 2024
 - **Time**: 11:00 AM - 5:00 PM
-- **Location**: AC02 - 108 (above Takshila)
+- **Location**: AC02 108 (above Takshila)
 - **Team Size**: 3 participants per team
