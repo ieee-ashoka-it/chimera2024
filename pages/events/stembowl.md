@@ -6,7 +6,7 @@ permalink: /events/stembowl/
 image: /assets/images/events/stembowl.png
 links:
   - name: "Register"
-    link: "https://www.townscript.com/e/chimera-2024"
+    link: "https://forms.gle/98xK217t5wthhjQbA"
 poc:
   - name: "Smayan Agarwal"
     email: "smayan.agarwal_ug25@ashoka.edu.in"

@@ -6,7 +6,7 @@ permalink: /events/triathlon/
 image: /assets/images/events/acadtri.png
 links:
   - name: "Register"
-    link: "https://www.townscript.com/e/chimera-2024"
+    link: "https://forms.gle/kC3oupLdi6g4Mkx1A"
 poc:
   - name: "Satwik Wats"
     email: "satwik.wats_ug24@ashoka.edu.in"

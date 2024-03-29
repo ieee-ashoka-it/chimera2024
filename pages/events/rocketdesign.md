@@ -6,7 +6,7 @@ permalink: /events/rocketdesign/
 image: /assets/images/events/rocketdesign.png
 links:
   - name: "Register"
-    link: "https://www.townscript.com/e/chimera-2024"
+    link: "https://forms.gle/LALwU9BqdTz7wHHv7"
 poc:
   - name: "Aditi Singh"
     email: "aditi.singh_ug24@ashoka.edu.in"

@@ -6,7 +6,7 @@ permalink: /events/healthtech_datathon/
 image: /assets/images/events/datathon.png
 links:
   - name: "Register"
-    link: "https://www.townscript.com/e/chimera-2024"
+    link: "https://forms.gle/ThTykB36bazirS1a8"
 poc:
   - name: "Rushil Gupta"
     email: "rushil.gupta_ug2023@ashoka.edu.in"

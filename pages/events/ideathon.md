@@ -6,7 +6,7 @@ permalink: /events/healthtech_ideathon/
 image: /assets/images/events/ideathon.png
 links:
   - name: "Register"
-    link: "https://www.townscript.com/e/chimera-2024"
+    link: "https://forms.gle/m3BWiE8YVS1fRWvTA"
 poc:
   - name: "Tista Bhattacharya"
     email: "tista.bhattacharya_ug24@ashoka.edu.in"

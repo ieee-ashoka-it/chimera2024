@@ -6,7 +6,7 @@ permalink: /events/webdev/
 image: /assets/images/events/webdev.png
 links:
   - name: "Register"
-    link: "https://www.townscript.com/e/chimera-2024"
+    link: "https://forms.gle/J8uXqjJ52xgHMWtV7"
 poc:
   - name: "Aryan Nath"
     email: "aryan.nath_ug25@ashoka.edu.in"
