@@ -57,8 +57,6 @@ _Note_: The teams with atleast one non-CS major in their team may get brownie po
 - Presentations : 4-6pm on Sunday
 - Closing Ceremony : 6pm on Sunday
 
-
-
 ### Event Details
 - **Date**: 30-31 March 2024
 - **Time**: 30 March, 1:00 PM - 31 March 5:00 PM
